@@ -1,0 +1,11 @@
+{
+  "name": "opintopolku-sijoittumisdata",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/test-match.mjs",
+    "build:data": "node scripts/build-data.mjs",
+    "categorize": "node scripts/ai-categorize.mjs"
+  }
+}

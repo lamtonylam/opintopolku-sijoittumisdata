@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="fi">
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      body {
+        width: 280px;
+        margin: 0;
+        padding: 14px 14px 12px;
+        font-family:
+          system-ui, -apple-system, "Segoe UI", sans-serif;
+        font-size: 13px;
+        color: #1a1a1a;
+      }
+      h1 {
+        margin: 0 0 4px;
+        font-size: 14px;
+      }
+      p {
+        margin: 0 0 10px;
+        color: #555;
+        line-height: 1.45;
+      }
+      .row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+        padding: 8px 0;
+        border-top: 1px solid #eee;
+      }
+      .row label {
+        font-weight: 600;
+      }
+      a {
+        color: #0b5fff;
+      }
+      .meta {
+        margin-top: 8px;
+        font-size: 11px;
+        color: #777;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Sijoittumisdata Opintopolussa</h1>
+    <p>
+      Näyttää työttömyysasteen ja mediaanitulon Opintopolun sivuilla Tilastokeskuksen
+      sijoittumispalvelun aineistosta.
+    </p>
+    <div class="row">
+      <label for="enabled">Näytä paneeli</label>
+      <input type="checkbox" id="enabled" checked />
+    </div>
+    <div class="row">
+      <span>Avaa vertailutyökalu</span>
+      <a id="dashboard" href="#" target="_blank" rel="noreferrer">Avaa</a>
+    </div>
+    <p class="meta" id="meta">Ladataan aineiston tietoja…</p>
+    <script src="popup.js"></script>
+  </body>
+</html>

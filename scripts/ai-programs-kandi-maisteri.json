@@ -1,0 +1,3973 @@
+[
+ {
+  "oid": "1.2.246.562.13.00000000000000002728",
+  "title": "Elokuvaäänitys ja -äänisuunnittelu, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002808",
+  "title": "Arkkitehtuuri, kandidaatti ja arkkitehti (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti (arkkitehtuuri)",
+   "Arkkitehti"
+  ],
+  "codes": [
+   "koulutus_655801#12",
+   "koulutus_754101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001155",
+  "title": "Audiovisuaalinen media, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Lapin yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002785",
+  "title": "Automaatio ja robotiikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655202#12",
+   "koulutus_751202#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001609",
+  "title": "Automaatio ja tietotekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Vaasan yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_751202#12",
+   "koulutus_655202#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003108",
+  "title": "Automaatiotekniikka, tekniikan kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655202#12",
+   "koulutus_751202#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001326",
+  "title": "Automaatiotekniikka, Teknisten tieteiden koulutus, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655202#12",
+   "koulutus_751202#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010650",
+  "title": "Bioinformaatioteknologia, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655301#12",
+   "koulutus_751301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003012",
+  "title": "Biokemia ja molekyylibiotieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642702#12",
+   "koulutus_742702#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002944",
+  "title": "Biologia ja ympäristötieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642701#12",
+   "koulutus_642703#12",
+   "koulutus_742701#12",
+   "koulutus_742703#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001422",
+  "title": "Biolääketiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Luonnontieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_642702#12",
+   "koulutus_742702#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001418",
+  "title": "Biotekniikka, tekniikan kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Diplomi-insinööri",
+   "Tekniikan kandidaatti"
+  ],
+  "codes": [
+   "koulutus_751409#12",
+   "koulutus_655409#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001338",
+  "title": "Bioteknologian ja biolääketieteen tekniikan koulutus, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655409#12",
+   "koulutus_751409#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002812",
+  "title": "Chemical Engineering, Bachelor and Master (3+2 yrs)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655401#12",
+   "koulutus_751401#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009264",
+  "title": "Computer Engineering, Bachelor and Master (3+2 yrs)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655201#12",
+   "koulutus_751201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002815",
+  "title": "Data Science, Bachelor and Master (3+2 yrs)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655301#12",
+   "koulutus_751301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011069",
+  "title": "Datatekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002809",
+  "title": "Design and Media, Bachelor and Master (3+2 yrs)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012708",
+  "title": "Design, Bachelor and Master of Arts (Art and Design) (3 + 2 years)",
+  "provider": "Lapin yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010730",
+  "title": "Digitaalisen kulttuurin, maiseman ja kulttuuriperinnön tutkinto-ohjelma, Pori, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_623999#12",
+   "koulutus_726999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002814",
+  "title": "Digital Systems and Design, Bachelor and Master (3+2 yrs)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655201#12",
+   "koulutus_751201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002720",
+  "title": "Dokumentaarinen elokuva, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000904",
+  "title": "Dramaturgia ja näytelmän kirjoittaminen, teatteritaiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Teatteritaiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_725111#12",
+   "koulutus_622501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002810",
+  "title": "Economics, Bachelor and Master (3+2 yrs)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Kauppatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_632101#12",
+   "koulutus_732101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010673",
+  "title": "Elektroniikka ja sähkötekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655201#12",
+   "koulutus_751201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011013",
+  "title": "Elintarvike- ja ravitsemustieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Elintarviketieteiden kandidaatti",
+   "Elintarviketieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_662201#12",
+   "koulutus_762301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011014",
+  "title": "Elintarviketalous ja kulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Elintarviketieteiden kandidaatti",
+   "Maatalous- ja metsätieteiden kandidaatti",
+   "Elintarviketieteiden maisteri",
+   "Maatalous- ja metsätieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_662201#12",
+   "koulutus_662199#12",
+   "koulutus_762301#12",
+   "koulutus_762299#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000007939",
+  "title": "Elintarviketekniikka, tekniikan kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655409#12",
+   "koulutus_751409#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002722",
+  "title": "Elokuva- ja tv-käsikirjoitus, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002723",
+  "title": "Elokuva- ja tv-lavastus, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002724",
+  "title": "Elokuva- ja tv-tuotanto, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002725",
+  "title": "Elokuvaleikkaus, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002726",
+  "title": "Elokuvaohjaus, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002727",
+  "title": "Elokuvaus, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001525",
+  "title": "Eläinlääketiede, kandidaatti ja lisensiaatti (3 v + 3 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Eläinlääketieteen kandidaatti",
+   "Eläinlääketieteen lisensiaatti"
+  ],
+  "codes": [
+   "koulutus_672301#12",
+   "koulutus_772301#12"
+  ],
+  "laajuus": 360
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002789",
+  "title": "Energia- ja konetekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655101#12",
+   "koulutus_751101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003230",
+  "title": "Energiamurroksen koulutus, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_751102#12",
+   "koulutus_655102#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001864",
+  "title": "Energiatekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655102#12",
+   "koulutus_751102#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001452",
+  "title": "Englannin kieli, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623103#12",
+   "koulutus_726103#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001775",
+  "title": "Englannin kieli, kulttuuri ja kääntäminen, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726103#12",
+   "koulutus_623103#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001240",
+  "title": "Englanti, Kielten koulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726103#12",
+   "koulutus_623103#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002945",
+  "title": "Erityispedagogiikka ja erityisopettaja, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Kasvatustieteen kandidaatti",
+   "Kasvatustieteen maisteri"
+  ],
+  "codes": [
+   "koulutus_612203#12",
+   "koulutus_612103#12",
+   "koulutus_712203#12",
+   "koulutus_712102#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002947",
+  "title": "Farmaseutti ja proviisori (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Farmaseutti",
+   "Proviisori"
+  ],
+  "codes": [
+   "koulutus_672401#12",
+   "koulutus_772401#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001365",
+  "title": "Filosofia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Valtiotieteiden kandidaatti",
+   "Filosofian maisteri",
+   "Valtiotieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_623701#12",
+   "koulutus_633107#12",
+   "koulutus_726701#12",
+   "koulutus_733107#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002026",
+  "title": "Filosofia, kandidaatti ja maisteri (3 v +2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Valtiotieteiden maisteri",
+   "Valtiotieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733107#12",
+   "koulutus_633107#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001573",
+  "title": "Filosofian koulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726701#12",
+   "koulutus_623701#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012221",
+  "title": "Finance, Bachelor and Master (3+2 yrs)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Kauppatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_632101#12",
+   "koulutus_732101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003178",
+  "title": "Fotoniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001471",
+  "title": "Fysiikka, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_742301#12",
+   "koulutus_642301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002934",
+  "title": "Fysikaaliset tieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642301#12",
+   "koulutus_742301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002949",
+  "title": "Geotieteet, geologia ja geofysiikka, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642501#12",
+   "koulutus_742501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002061",
+  "title": "Global Music, Bachelor and Master of Music (3 yr + 2.5 yr)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Musiikin maisteri"
+  ],
+  "codes": [
+   "koulutus_723111#12",
+   "koulutus_622201#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001193",
+  "title": "Graafinen suunnittelu, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Lapin yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001276",
+  "title": "Hallintotieteet ja johtaminen, hallintotieteiden tai yhteiskuntatieteiden kandidaatti ja hallintotieteiden tai yhteiskuntatieteiden maisteri (3 v + 2 v)",
+  "provider": "Lapin yliopisto",
+  "tutkintonimikkeet": [
+   "Hallintotieteiden kandidaatti",
+   "Yhteiskuntatieteiden kandidaatti",
+   "Hallintotieteiden maisteri",
+   "Yhteiskuntatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633301#12",
+   "koulutus_733301#12",
+   "koulutus_633299#12",
+   "koulutus_733299#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003013",
+  "title": "Hallintotieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Vaasan yliopisto",
+  "tutkintonimikkeet": [
+   "Hallintotieteiden maisteri",
+   "Hallintotieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733301#12",
+   "koulutus_633301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009345",
+  "title": "Hammaslääketiede, kandidaatti ja lisensiaatti (3 v + 2,5 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Hammaslääketieteen kandidaatti",
+   "Hammaslääketieteen lisensiaatti"
+  ],
+  "codes": [
+   "koulutus_672202#1",
+   "koulutus_772202#1"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010870",
+  "title": "Historia sekä historia ja arkeologia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726301#12",
+   "koulutus_623301#12",
+   "koulutus_726302#12",
+   "koulutus_623302#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001369",
+  "title": "Historia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623301#12",
+   "koulutus_726301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002788",
+  "title": "Informaatioteknologia, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655302#12",
+   "koulutus_751302#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001464",
+  "title": "Informaatiotutkimus ja viestintä, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623601#12",
+   "koulutus_726601#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001645",
+  "title": "Informaatiotutkimus, Viestinnän monitieteinen koulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Luonnontieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_742999#12",
+   "koulutus_642999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002795",
+  "title": "Informaatioverkostot, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655301#12",
+   "koulutus_751301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009582",
+  "title": "Interkulttuurinen luokanopettaja, kasvatustieteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Kasvatustieteen kandidaatti",
+   "Kasvatustieteen maisteri"
+  ],
+  "codes": [
+   "koulutus_612102#12",
+   "koulutus_712101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010636",
+  "title": "International Business, Bachelor and Master (3+2 yrs)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Kauppatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_632101#12",
+   "koulutus_732101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000983",
+  "title": "Jazzmusiikki, musiikin kandidaatti ja maisteri (3 v + 2,5 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Musiikin maisteri"
+  ],
+  "codes": [
+   "koulutus_723111#12",
+   "koulutus_622201#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009547",
+  "title": "Journalistiikka, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden maisteri",
+   "Filosofian maisteri",
+   "Yhteiskuntatieteiden kandidaatti",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733206#12",
+   "koulutus_726601#12",
+   "koulutus_633206#12",
+   "koulutus_623601#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001294",
+  "title": "Julkisoikeus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Hallintotieteiden maisteri",
+   "Hallintotieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733399#12",
+   "koulutus_633399#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000844",
+  "title": "Kansanmusiikki, musiikin kandidaatti ja maisteri (3 v + 2,5 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Musiikin maisteri"
+  ],
+  "codes": [
+   "koulutus_723111#12",
+   "koulutus_622201#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002957",
+  "title": "Kasvatustieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Kasvatustieteen kandidaatti",
+   "Kasvatustieteen maisteri"
+  ],
+  "codes": [
+   "koulutus_612201#12",
+   "koulutus_612202#12",
+   "koulutus_712201#12",
+   "koulutus_712202#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001004",
+  "title": "Kauppatieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Kauppatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_632101#12",
+   "koulutus_732101#12",
+   "koulutus_632105#12",
+   "koulutus_732105#12",
+   "koulutus_632199#12",
+   "koulutus_732199#12",
+   "koulutus_632115#12",
+   "koulutus_732115#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001912",
+  "title": "Kemia tai kemian aineenopettaja, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_742401#12",
+   "koulutus_642401#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001697",
+  "title": "Kemia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Luonnontieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_742401#12",
+   "koulutus_642401#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001738",
+  "title": "Kemia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642401#12",
+   "koulutus_742401#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003167",
+  "title": "Kemia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642401#12",
+   "koulutus_742401#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002024",
+  "title": "Kemia, kandidaatti ja maisteri (3v + 2v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642401#12",
+   "koulutus_742401#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002793",
+  "title": "Kemian tekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655402#12",
+   "koulutus_751402#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010787",
+  "title": "Kemiantekniikka ja prosessitekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Diplomi-insinööri",
+   "Tekniikan kandidaatti"
+  ],
+  "codes": [
+   "koulutus_751401#12",
+   "koulutus_655401#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001132",
+  "title": "Kestävyyskasvatus, kasvatustieteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Lapin yliopisto",
+  "tutkintonimikkeet": [
+   "Kasvatustieteen kandidaatti",
+   "Kasvatustieteen maisteri"
+  ],
+  "codes": [
+   "koulutus_612299#12",
+   "koulutus_712299#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008199",
+  "title": "Kestävä energia ja älykäs teknologia, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Vaasan yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_751999#12",
+   "koulutus_655999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002790",
+  "title": "Kestävät yhdyskunnat, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655502#12",
+   "koulutus_751502#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001547",
+  "title": "Kielet ja kulttuurienvälinen viestintä, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726199#12",
+   "koulutus_623199#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001226",
+  "title": "Kielet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623199#12",
+   "koulutus_726199#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001630",
+  "title": "Kielitietoisuuteen ja monikielisyyteen erikoistuva kielten aineenopettaja- ja luokanopettajakoulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726199#12",
+   "koulutus_623199#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001643",
+  "title": "Kielten aineenopettaja, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726199#12",
+   "koulutus_623199#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002166",
+  "title": "Kielten tutkinto-ohjelma, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623103#12",
+   "koulutus_623107#12",
+   "koulutus_623108#12",
+   "koulutus_623116#1",
+   "koulutus_623105#12",
+   "koulutus_623104#12",
+   "koulutus_623110#12",
+   "koulutus_623199#12",
+   "koulutus_726103#12",
+   "koulutus_726108#12",
+   "koulutus_726116#1",
+   "koulutus_726105#12",
+   "koulutus_726104#12",
+   "koulutus_726110#12",
+   "koulutus_726199#12",
+   "koulutus_623113#12",
+   "koulutus_726113#12",
+   "koulutus_726107#12",
+   "koulutus_623101#12",
+   "koulutus_726101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002791",
+  "title": "Kiinteistötalous ja geoinformatiikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655502#12",
+   "koulutus_751502#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012413",
+  "title": "Kirjallisuus ja luovat mediat, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623101#12",
+   "koulutus_726101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010926",
+  "title": "Kirjallisuustieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623401#12",
+   "koulutus_726401#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000959",
+  "title": "Kirkkomusiikki, musiikin kandidaatti ja maisteri (3 v + 2,5 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Musiikin maisteri"
+  ],
+  "codes": [
+   "koulutus_723111#12",
+   "koulutus_622201#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000833",
+  "title": "Klassisen musiikin instrumenttiopinnot, musiikin kandidaatti ja maisteri (3 v + 2,5 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Musiikin maisteri"
+  ],
+  "codes": [
+   "koulutus_723111#12",
+   "koulutus_622201#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000907",
+  "title": "Klassisen musiikin lauluopinnot, musiikin kandidaatti ja maisteri (3 v + 2,5 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Musiikin maisteri"
+  ],
+  "codes": [
+   "koulutus_723111#12",
+   "koulutus_622201#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003014",
+  "title": "Konetekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_751101#12",
+   "koulutus_655101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001466",
+  "title": "Kotimaiset kielet ja kirjallisuudet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623199#12",
+   "koulutus_726199#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002950",
+  "title": "Kotitaloustiede ja kotitalousopettaja, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Kasvatustieteen kandidaatti",
+   "Kasvatustieteen maisteri"
+  ],
+  "codes": [
+   "koulutus_612104#12",
+   "koulutus_712104#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001633",
+  "title": "Kulttuuriantropologia ja arkeologia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623402#12",
+   "koulutus_726402#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001897",
+  "title": "Kulttuurien tutkimuksen tutkinto-ohjelma, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726402#12",
+   "koulutus_623402#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001620",
+  "title": "Kulttuurien tutkimus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623402#12",
+   "koulutus_726402#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001444",
+  "title": "Kulttuurintutkimus, humanististen tieteiden kandidaatti ja filosofian maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726402#12",
+   "koulutus_623402#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001928",
+  "title": "Kulttuurit ja yhteisöt muuttuvassa maailmassa, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726402#12",
+   "koulutus_623402#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001400",
+  "title": "Kuvataidekasvatus, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Lapin yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002729",
+  "title": "Kuvataidekasvatus, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000821",
+  "title": "Kuvataiteen kandidaatti ja maisteri (3,5 + 2 vuotta)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Kuvataiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_724101#12",
+   "koulutus_622301#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002952",
+  "title": "Käsityötiede ja käsityönopettaja, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Kasvatustieteen kandidaatti",
+   "Kasvatustieteen maisteri"
+  ],
+  "codes": [
+   "koulutus_612105#12",
+   "koulutus_712105#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001348",
+  "title": "Laskennallinen tiede ja tekoäly, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000871",
+  "title": "Lavastustaide, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_722101#12",
+   "koulutus_622101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001624",
+  "title": "Liiketaloustiede ja tietojenkäsittelytiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_632101#12",
+   "koulutus_742201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001976",
+  "title": "Liikunnan yhteiskuntatieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Liikuntatieteiden maisteri",
+   "Liikuntatieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_782201#12",
+   "koulutus_682201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001749",
+  "title": "Liikuntabiologia, kandidaatti- ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Liikuntatieteiden maisteri",
+   "Liikuntatieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_782201#12",
+   "koulutus_682201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012997",
+  "title": "Liikuntalääketiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Terveystieteiden kandidaatti",
+   "Terveystieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_672501#12",
+   "koulutus_772501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001542",
+  "title": "Liikuntapedagogiikka, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Liikuntatieteiden maisteri",
+   "Liikuntatieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_782201#12",
+   "koulutus_682201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002953",
+  "title": "Logopedia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623405#1",
+   "koulutus_726405#1"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008202",
+  "title": "Luokanopettaja ja musiikin aineenopettaja, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Kasvatustieteen kandidaatti",
+   "Kasvatustieteen maisteri",
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_612102#12",
+   "koulutus_712101#12",
+   "koulutus_623502#12",
+   "koulutus_726502#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002954",
+  "title": "Luokanopettaja, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Kasvatustieteen kandidaatti",
+   "Kasvatustieteen maisteri"
+  ],
+  "codes": [
+   "koulutus_612102#12",
+   "koulutus_712101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001663",
+  "title": "Luonnonvarat ja ympäristö, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Luonnontieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_742703#12",
+   "koulutus_642703#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012903",
+  "title": "Lääketeollinen tekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655999#12",
+   "koulutus_751999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009346",
+  "title": "Lääketiede, kandidaatti ja lisensiaatti (3 v + 3 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Lääketieteen kandidaatti",
+   "Lääketieteen lisensiaatti"
+  ],
+  "codes": [
+   "koulutus_672102#1",
+   "koulutus_772102#1"
+  ],
+  "laajuus": 360
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002097",
+  "title": "Lääketieteellinen tekniikka ja terveysteknologia, tekniikan kandidaatti ja diplomi-insinööri (3v + 2v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [],
+  "codes": [
+   "koulutus_751999#12",
+   "koulutus_655999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000007910",
+  "title": "Lääketieteen tekniikka, tekniikan kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_751999#12",
+   "koulutus_655999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001490",
+  "title": "Maantiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Yhteiskuntatieteiden kandidaatti",
+   "Filosofian maisteri",
+   "Yhteiskuntatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_642601#12",
+   "koulutus_633210#12",
+   "koulutus_742601#12",
+   "koulutus_733210#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002016",
+  "title": "Maataloustieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Maatalous- ja metsätieteiden kandidaatti",
+   "Maatalous- ja metsätieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_662101#12",
+   "koulutus_762201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002794",
+  "title": "Maisema-arkkitehtuuri, tekniikan kandidaatti ja maisema-arkkitehti (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti (arkkitehtuuri)",
+   "Maisema-arkkitehti"
+  ],
+  "codes": [
+   "koulutus_655801#12",
+   "koulutus_754201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001699",
+  "title": "Matemaattisten aineiden DI-opettajankoulutus, Tekniikan ja luonnontieteiden koulutus, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010827",
+  "title": "Matematiikan, fysiikan ja kemian opettajankoulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642999#12",
+   "koulutus_742999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003011",
+  "title": "Matematiikka, tilastotiede ja datatiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642101#12",
+   "koulutus_642102#12",
+   "koulutus_742101#12",
+   "koulutus_742102#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010789",
+  "title": "Materiaalitekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Diplomi-insinööri",
+   "Tekniikan kandidaatti"
+  ],
+  "codes": [
+   "koulutus_751401#12",
+   "koulutus_655401#12",
+   "koulutus_751408#12",
+   "koulutus_655408#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001223",
+  "title": "Matkailututkimus, yhteiskuntatieteiden kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Lapin yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden kandidaatti",
+   "Yhteiskuntatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633209#12",
+   "koulutus_733299#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002813",
+  "title": "Mechanical and Civil Engineering, Bachelor and Master (3+2 yrs)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655101#12",
+   "koulutus_751101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001962",
+  "title": "Median, musiikin ja taiteen tutkimuksen tutkinto-ohjelma, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726599#12",
+   "koulutus_623999#12",
+   "koulutus_623501#12",
+   "koulutus_623502#12",
+   "koulutus_623601#12",
+   "koulutus_726502#12",
+   "koulutus_726501#12",
+   "koulutus_726601#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001740",
+  "title": "Mediatutkimus, Viestinnän monitieteinen koulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden maisteri",
+   "Yhteiskuntatieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733206#12",
+   "koulutus_633206#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002955",
+  "title": "Metsätieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Maatalous- ja metsätieteiden kandidaatti",
+   "Maatalous- ja metsätieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_662102#12",
+   "koulutus_762202#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008086",
+  "title": "Muoti ja tekstiilisuunnittelu, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Lapin yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002736",
+  "title": "Muoti, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008090",
+  "title": "Muotoilu, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Lapin yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002740",
+  "title": "Muotoilu, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001647",
+  "title": "Museologia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726402#12",
+   "koulutus_623402#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000938",
+  "title": "Musiikin johtaminen, musiikin kandidaatti ja maisteri (3 v + 2,5 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Musiikin maisteri"
+  ],
+  "codes": [
+   "koulutus_723111#12",
+   "koulutus_622201#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000013036",
+  "title": "Musiikinopettaja, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Kasvatustieteen kandidaatti",
+   "Kasvatustieteen maisteri"
+  ],
+  "codes": [
+   "koulutus_612108#12",
+   "koulutus_712109#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001333",
+  "title": "Musiikkikasvatus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726502#12",
+   "koulutus_623502#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000909",
+  "title": "Musiikkikasvatus, musiikin kandidaatti ja maisteri (3 v + 2,5 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Musiikin maisteri"
+  ],
+  "codes": [
+   "koulutus_723111#12",
+   "koulutus_622201#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000975",
+  "title": "Musiikkiteknologia, musiikin kandidaatti ja maisteri (3 v + 2,5 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Musiikin maisteri"
+  ],
+  "codes": [
+   "koulutus_723111#12",
+   "koulutus_622201#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002050",
+  "title": "Musiikkitiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726502#12",
+   "koulutus_623502#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008146",
+  "title": "Nanotiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642999#12",
+   "koulutus_742999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000925",
+  "title": "Näyttelijäntaide, teatteritaiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Teatteritaiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_725111#12",
+   "koulutus_622501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000966",
+  "title": "Ohjaus, teatteritaiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Teatteritaiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_725111#12",
+   "koulutus_622501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002375",
+  "title": "Ohjelmistot ja data-arkkitehtuuri, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Vaasan yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_751999#12",
+   "koulutus_655999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001003",
+  "title": "Oikeustieteet, oikeusnotaari ja maisteri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Oikeusnotaari",
+   "Oikeustieteen maisteri"
+  ],
+  "codes": [
+   "koulutus_634101#12",
+   "koulutus_734101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001808",
+  "title": "Opinto-ohjaaja ja uraohjaaja, kasvatustieteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Kasvatustieteen maisteri",
+   "Kasvatustieteen kandidaatti"
+  ],
+  "codes": [
+   "koulutus_712108#12",
+   "koulutus_612107#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002092",
+  "title": "Oppimistieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Kasvatustieteen kandidaatti",
+   "Kasvatustieteen maisteri"
+  ],
+  "codes": [
+   "koulutus_612201#12",
+   "koulutus_712201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001811",
+  "title": "Pohjoismaiset kielet, Kielten koulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726102#12",
+   "koulutus_623116#1"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001602",
+  "title": "Poliittinen historia ja valtio-oppi, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Valtiotieteiden maisteri",
+   "Valtiotieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733101#12",
+   "koulutus_633101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001549",
+  "title": "Politiikan tutkimuksen koulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden maisteri",
+   "Yhteiskuntatieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733201#12",
+   "koulutus_633201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001944",
+  "title": "Politiikka ja viestintä, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Valtiotieteiden kandidaatti",
+   "Valtiotieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633101#12",
+   "koulutus_733101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001505",
+  "title": "Politiikkatieteet ja sosiologia, yhteiskuntatieteiden kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Lapin yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden kandidaatti",
+   "Yhteiskuntatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633201#12",
+   "koulutus_733299#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002956",
+  "title": "Psykologia, kandidaatti ja maisteri (3 v + 2,5/2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Psykologian kandidaatti",
+   "Psykologian maisteri",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_633501#12",
+   "koulutus_733501#12",
+   "koulutus_733405#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002741",
+  "title": "Pukusuunnittelu: esittävät taiteet ja elokuva, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002816",
+  "title": "Quantum Technology, Bachelor and Master (3+2 yrs)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655999#12",
+   "koulutus_751999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012539",
+  "title": "Rakennus- ja yhdyskuntatekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655501#12",
+   "koulutus_751501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001256",
+  "title": "Rakennus- ja yhdyskuntatekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655501#12",
+   "koulutus_751501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001491",
+  "title": "Rakennustekniikan koulutus, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655501#12",
+   "koulutus_751501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002792",
+  "title": "Rakennustekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655501#12",
+   "koulutus_751501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001718",
+  "title": "Ravitsemustiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Terveystieteiden kandidaatti",
+   "Terveystieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_672501#12",
+   "koulutus_772501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003222",
+  "title": "Robotiikan koulutus, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Diplomi-insinööri",
+   "Tekniikan kandidaatti"
+  ],
+  "codes": [
+   "koulutus_751202#12",
+   "koulutus_655202#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001597",
+  "title": "Ruotsin kieli, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623102#12",
+   "koulutus_726102#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001161",
+  "title": "Ruotsin kieli, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623102#12",
+   "koulutus_726102#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009658",
+  "title": "Saamen kielet ja saamelainen kulttuuri, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623109#12",
+   "koulutus_726109#12",
+   "koulutus_623402#12",
+   "koulutus_726402#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001216",
+  "title": "Saksa, Kielten koulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726104#12",
+   "koulutus_623104#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001736",
+  "title": "Saksan kieli ja kulttuuri, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623104#12",
+   "koulutus_726104#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002745",
+  "title": "Sisustusarkkitehtuuri, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009587",
+  "title": "Sosiaalipsykologia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden kandidaatti",
+   "Yhteiskuntatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633299#12",
+   "koulutus_733299#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001829",
+  "title": "Sosiaalitieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Valtiotieteiden maisteri",
+   "Valtiotieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733103#12",
+   "koulutus_633103#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001428",
+  "title": "Sosiaalitieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Valtiotieteiden kandidaatti",
+   "Valtiotieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633103#12",
+   "koulutus_733103#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002970",
+  "title": "Sosiaalityö, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden kandidaatti",
+   "Yhteiskuntatieteiden maisteri",
+   "Valtiotieteiden kandidaatti",
+   "Valtiotieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633203#12",
+   "koulutus_733203#12",
+   "koulutus_633103#12",
+   "koulutus_733103#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012559",
+  "title": "Soveltava psykologia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Psykologian kandidaatti",
+   "Psykologian maisteri",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_633501#12",
+   "koulutus_733501#12",
+   "koulutus_733405#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001720",
+  "title": "Suomen kielen ja kirjallisuuden aineenopettaja, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726999#12",
+   "koulutus_623199#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000013112",
+  "title": "Suomen kieli ja asiantuntijaviestintä, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726999#12",
+   "koulutus_623199#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001994",
+  "title": "Suomen kieli ja kirjallisuudentutkimus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623101#12",
+   "koulutus_726101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001617",
+  "title": "Suomen kieli ja kirjallisuus, humanististen tieteiden kandidaatti ja filosofian maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726101#12",
+   "koulutus_623101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012412",
+  "title": "Suomen kieli, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623101#12",
+   "koulutus_726101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001685",
+  "title": "Suomen kieli, Kielten koulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726101#12",
+   "koulutus_623101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000905",
+  "title": "Sävellys ja musiikinteoria, musiikin kandidaatti ja maisteri (3 v + 2,5 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Musiikin maisteri"
+  ],
+  "codes": [
+   "koulutus_723111#12",
+   "koulutus_622201#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001254",
+  "title": "Taidehistoria ja taidekasvatus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726501#12",
+   "koulutus_623501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001805",
+  "title": "Taiteiden tutkimus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623599#12",
+   "koulutus_726599#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001930",
+  "title": "Taloustiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Valtiotieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_733102#12",
+   "koulutus_633102#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002000",
+  "title": "Taloustiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Valtiotieteiden kandidaatti",
+   "Valtiotieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633102#12",
+   "koulutus_733102#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008092",
+  "title": "Teatteritaiteen koulutus, Teatteritaiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Teatteritaiteen maisteri",
+   "Teatteritaiteen kandidaatti"
+  ],
+  "codes": [
+   "koulutus_725111#12",
+   "koulutus_622501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012107",
+  "title": "Technology, Business and Design, Bachelor and Master (3+2 yrs)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Kauppatieteiden kandidaatti",
+   "Diplomi-insinööri",
+   "Kauppatieteiden maisteri",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_655101#12",
+   "koulutus_655201#12",
+   "koulutus_655301#12",
+   "koulutus_632101#12",
+   "koulutus_751101#12",
+   "koulutus_751201#12",
+   "koulutus_751301#12",
+   "koulutus_732101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002796",
+  "title": "Teknillinen fysiikka ja matematiikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655203#12",
+   "koulutus_751203#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003180",
+  "title": "Teknillinen fysiikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655203#12",
+   "koulutus_751203#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002797",
+  "title": "Teknillinen psykologia, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001377",
+  "title": "Teknis-luonnontieteellinen, Tekniikan ja luonnontieteiden koulutus, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003223",
+  "title": "Teknologiajohtaminen, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655301#12",
+   "koulutus_751301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002977",
+  "title": "Teologia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Teologian kandidaatti",
+   "Teologian maisteri"
+  ],
+  "codes": [
+   "koulutus_624101#12",
+   "koulutus_727101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010281",
+  "title": "Terveystieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Terveystieteiden kandidaatti",
+   "Terveystieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_672501#12",
+   "koulutus_772501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002981",
+  "title": "Tietojenkäsittelytiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642201#12",
+   "koulutus_742201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001483",
+  "title": "Tietojohtaminen, Teknis-taloudellinen koulutus, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_751601#12",
+   "koulutus_655601#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001297",
+  "title": "Tietojärjestelmätiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Kauppatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_632115#12",
+   "koulutus_732115#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002806",
+  "title": "Tietotekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655301#12",
+   "koulutus_751301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011122",
+  "title": "Tilastotiede ja datatiede, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011109",
+  "title": "Tuotantotalous ja kyberjohtaminen, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Vaasan yliopisto",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Kauppatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_632101#12",
+   "koulutus_732101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002807",
+  "title": "Tuotantotalous, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Turun yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655601#12",
+   "koulutus_751601#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011121",
+  "title": "Turvallisuusteknologia, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012824",
+  "title": "Työ- ja organisaatiopsykologia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden kandidaatti",
+   "Yhteiskuntatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633205#12",
+   "koulutus_733205#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008151",
+  "title": "Valmennustiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Liikuntatieteiden maisteri",
+   "Liikuntatieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_782201#12",
+   "koulutus_682201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000908",
+  "title": "Valosuunnittelu, teatteritaiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Teatteritaiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_725111#12",
+   "koulutus_622501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002976",
+  "title": "Varhaiskasvatuksen opettaja, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Kasvatustieteen kandidaatti",
+   "Kasvatustieteen maisteri"
+  ],
+  "codes": [
+   "koulutus_612204#12",
+   "koulutus_612101#12",
+   "koulutus_712204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001857",
+  "title": "Venäjä, Kielten koulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726106#12",
+   "koulutus_623106#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001807",
+  "title": "Venäjän kieli, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_726106#12",
+   "koulutus_623106#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002928",
+  "title": "Viestintä, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri",
+   "Yhteiskuntatieteiden kandidaatti",
+   "Yhteiskuntatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_623601#12",
+   "koulutus_726601#12",
+   "koulutus_633206#12",
+   "koulutus_733206#12",
+   "koulutus_726999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002149",
+  "title": "Viittomakielen asiantuntija, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Filosofian maisteri",
+   "Humanististen tieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_623115#12",
+   "koulutus_726115#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002747",
+  "title": "Visuaalisen viestinnän muotoilu, taiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Aalto-yliopisto",
+  "tutkintonimikkeet": [
+   "Taiteen kandidaatti",
+   "Taiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_622101#12",
+   "koulutus_722101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001788",
+  "title": "Yhteiskunnallinen muutos, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Valtiotieteiden kandidaatti",
+   "Valtiotieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633101#12",
+   "koulutus_733199#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001225",
+  "title": "Yhteiskuntatieteet ja filosofia, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden maisteri",
+   "Yhteiskuntatieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733299#12",
+   "koulutus_633299#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003168",
+  "title": "Yhteiskuntatieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden kandidaatti",
+   "Yhteiskuntatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633299#12",
+   "koulutus_733299#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002108",
+  "title": "Yhteiskuntatieteet, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden kandidaatti",
+   "Yhteiskuntatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633203#12",
+   "koulutus_633299#12",
+   "koulutus_733203#12",
+   "koulutus_733299#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001199",
+  "title": "Yhteiskuntatutkimuksen koulutus, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden maisteri",
+   "Yhteiskuntatieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733203#12",
+   "koulutus_633203#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001859",
+  "title": "Ympäristö- ja elintarviketalous, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Maatalous- ja metsätieteiden kandidaatti",
+   "Elintarviketieteiden kandidaatti",
+   "Maatalous- ja metsätieteiden maisteri",
+   "Elintarviketieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_662199#12",
+   "koulutus_662201#12",
+   "koulutus_762299#12",
+   "koulutus_762301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001598",
+  "title": "Ympäristö-, energia- ja biotekniikka, Tekniikan ja luonnontieteiden koulutus, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655403#12",
+   "koulutus_751403#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011015",
+  "title": "Ympäristön ja maatalouden taloustiede, kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Maatalous- ja metsätieteiden kandidaatti",
+   "Maatalous- ja metsätieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_662199#12",
+   "koulutus_762299#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001555",
+  "title": "Ympäristötekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655403#12",
+   "koulutus_751403#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001153",
+  "title": "Ympäristötekniikka, kandidaatti ja diplomi-insinööri (3 v + 2 v)",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655403#12",
+   "koulutus_751403#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000926",
+  "title": "Äänisuunnittelu, teatteritaiteen kandidaatti ja maisteri (3 v + 2 v)",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Teatteritaiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_725111#12",
+   "koulutus_622501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000992",
+  "title": "",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Hallintotieteiden maisteri",
+   "Hallintotieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733301#12",
+   "koulutus_633301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012740",
+  "title": "",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Diplomi-insinööri",
+   "Tekniikan kandidaatti"
+  ],
+  "codes": [
+   "koulutus_751202#12",
+   "koulutus_655202#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010743",
+  "title": "",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri",
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri",
+   "Valtiotieteiden kandidaatti",
+   "Valtiotieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_623999#12",
+   "koulutus_726999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000628",
+  "title": "",
+  "provider": "Helsingin yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642999#12",
+   "koulutus_742999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012737",
+  "title": "",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Diplomi-insinööri",
+   "Tekniikan kandidaatti"
+  ],
+  "codes": [
+   "koulutus_751409#12",
+   "koulutus_655409#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001282",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642702#12",
+   "koulutus_742901#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010124",
+  "title": "",
+  "provider": "Vaasan yliopisto",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Kauppatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_632101#12",
+   "koulutus_732101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009323",
+  "title": "",
+  "provider": "Jyväskylän yliopisto",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Kauppatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_632101#12",
+   "koulutus_732101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000007930",
+  "title": "",
+  "provider": "Svenska handelshögskolan",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Kauppatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_632101#12",
+   "koulutus_632105#12",
+   "koulutus_732101#12",
+   "koulutus_732105#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010934",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [],
+  "codes": [
+   "koulutus_655401#12",
+   "koulutus_751401#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012735",
+  "title": "",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Diplomi-insinööri",
+   "Tekniikan kandidaatti"
+  ],
+  "codes": [
+   "koulutus_751401#12",
+   "koulutus_655401#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012058",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009515",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000949",
+  "title": "",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655301#12",
+   "koulutus_751301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011061",
+  "title": "",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655301#12",
+   "koulutus_751301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000889",
+  "title": "",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012744",
+  "title": "",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Diplomi-insinööri",
+   "Tekniikan kandidaatti"
+  ],
+  "codes": [
+   "koulutus_751301#12",
+   "koulutus_751201#12",
+   "koulutus_655301#12",
+   "koulutus_655201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010968",
+  "title": "",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010933",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Kauppatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_632101#12",
+   "koulutus_732101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012659",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655201#12",
+   "koulutus_751201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000912",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655201#12",
+   "koulutus_751201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000935",
+  "title": "",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655201#12",
+   "koulutus_751201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012660",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655102#12",
+   "koulutus_751102#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000932",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655102#12",
+   "koulutus_751102#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001157",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623403#12",
+   "koulutus_726103#12",
+   "koulutus_623103#12",
+   "koulutus_726403#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012741",
+  "title": "",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Diplomi-insinööri",
+   "Tekniikan kandidaatti"
+  ],
+  "codes": [
+   "koulutus_751203#12",
+   "koulutus_655203#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012739",
+  "title": "",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Diplomi-insinööri",
+   "Tekniikan kandidaatti"
+  ],
+  "codes": [
+   "koulutus_751403#12",
+   "koulutus_655403#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012661",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_751403#12",
+   "koulutus_655403#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001401",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623403#12",
+   "koulutus_726101#12",
+   "koulutus_623101#12",
+   "koulutus_726403#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001727",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623403#12",
+   "koulutus_726105#12",
+   "koulutus_726403#12",
+   "koulutus_623105#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000797",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655601#12",
+   "koulutus_751601#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000944",
+  "title": "",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642201#12",
+   "koulutus_742201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010964",
+  "title": "",
+  "provider": "Itä-Suomen yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642201#12",
+   "koulutus_742201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002937",
+  "title": "",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Kauppatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_632101#12",
+   "koulutus_732101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000013045",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642999#12",
+   "koulutus_742999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001827",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623402#12",
+   "koulutus_623701#12",
+   "koulutus_623502#12",
+   "koulutus_623501#12",
+   "koulutus_623401#12",
+   "koulutus_623301#12",
+   "koulutus_726301#12",
+   "koulutus_726401#12",
+   "koulutus_726402#12",
+   "koulutus_726501#12",
+   "koulutus_726502#12",
+   "koulutus_726701#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001496",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623404#12",
+   "koulutus_726404#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003238",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642999#12",
+   "koulutus_742999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012738",
+  "title": "",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Diplomi-insinööri",
+   "Tekniikan kandidaatti"
+  ],
+  "codes": [
+   "koulutus_751408#12",
+   "koulutus_655408#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012658",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655101#12",
+   "koulutus_751101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000824",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655101#12",
+   "koulutus_751101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000940",
+  "title": "",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655204#12",
+   "koulutus_751204#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001332",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Psykologian kandidaatti",
+   "Psykologian maisteri"
+  ],
+  "codes": [
+   "koulutus_633501#12",
+   "koulutus_733501#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001860",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Valtiotieteiden kandidaatti",
+   "Valtiotieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633199#12",
+   "koulutus_633102#12",
+   "koulutus_633101#12",
+   "koulutus_633103#12",
+   "koulutus_733199#12",
+   "koulutus_733102#12",
+   "koulutus_733101#12",
+   "koulutus_733103#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000950",
+  "title": "",
+  "provider": "Taideyliopisto",
+  "tutkintonimikkeet": [
+   "Teatteritaiteen maisteri"
+  ],
+  "codes": [
+   "koulutus_725111#12",
+   "koulutus_622501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000914",
+  "title": "",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden maisteri",
+   "Yhteiskuntatieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733203#12",
+   "koulutus_633203#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000013102",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Valtiotieteiden kandidaatti",
+   "Valtiotieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_633103#12",
+   "koulutus_733103#12",
+   "koulutus_633101#12",
+   "koulutus_733101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000007915",
+  "title": "",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Yhteiskuntatieteiden maisteri",
+   "Yhteiskuntatieteiden kandidaatti"
+  ],
+  "codes": [
+   "koulutus_733203#12",
+   "koulutus_633203#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000859",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655301#12",
+   "koulutus_751301#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010833",
+  "title": "",
+  "provider": "Oulun yliopisto",
+  "tutkintonimikkeet": [
+   "Luonnontieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_642201#12",
+   "koulutus_742201#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008009",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Kauppatieteiden kandidaatti",
+   "Kauppatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_632101#12",
+   "koulutus_732101#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001345",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623403#12",
+   "koulutus_726102#12",
+   "koulutus_623102#12",
+   "koulutus_726403#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000878",
+  "title": "",
+  "provider": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+  "tutkintonimikkeet": [
+   "Tekniikan kandidaatti",
+   "Diplomi-insinööri"
+  ],
+  "codes": [
+   "koulutus_655999#12",
+   "koulutus_751999#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000832",
+  "title": "",
+  "provider": "Tampereen yliopisto",
+  "tutkintonimikkeet": [
+   "Diplomi-insinööri",
+   "Tekniikan kandidaatti"
+  ],
+  "codes": [
+   "koulutus_751501#12",
+   "koulutus_655501#12"
+  ],
+  "laajuus": 300
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001148",
+  "title": "",
+  "provider": "Åbo Akademi",
+  "tutkintonimikkeet": [
+   "Humanististen tieteiden kandidaatti",
+   "Filosofian maisteri"
+  ],
+  "codes": [
+   "koulutus_623403#12",
+   "koulutus_726403#12",
+   "koulutus_623104#12",
+   "koulutus_726104#12"
+  ],
+  "laajuus": 300
+ }
+]

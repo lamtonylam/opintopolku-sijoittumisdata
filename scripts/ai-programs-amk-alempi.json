@@ -1,0 +1,2673 @@
+[
+ {
+  "oid": "1.2.246.562.13.00000000000000000184",
+  "title": "Agrologi (AMK)",
+  "provider": "Jyväskylän ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Agrologi (AMK)"
+  ],
+  "codes": [
+   "koulutus_661101#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009595",
+  "title": "Ammatillinen erityisopettajankoulutus",
+  "provider": "Jyväskylän ammattikorkeakoulu",
+  "tutkintonimikkeet": [],
+  "codes": [
+   "koulutus_000002#12"
+  ],
+  "laajuus": 60
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009594",
+  "title": "Ammatillinen opettajankoulutus",
+  "provider": "Jyväskylän ammattikorkeakoulu",
+  "tutkintonimikkeet": [],
+  "codes": [
+   "koulutus_000001#12"
+  ],
+  "laajuus": 60
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009596",
+  "title": "Ammatillinen opinto-ohjaajankoulutus",
+  "provider": "Oulun ammattikorkeakoulu",
+  "tutkintonimikkeet": [],
+  "codes": [
+   "koulutus_000003#12"
+  ],
+  "laajuus": 60
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000241",
+  "title": "Apuvälineteknikko (AMK)",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Apuvälineteknikko (AMK)"
+  ],
+  "codes": [
+   "koulutus_671115#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000190",
+  "title": "Artenomi (AMK)",
+  "provider": "Hämeen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Artenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_621101#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010319",
+  "title": "Artenomi (AMK), Digitaalisten ratkaisujen muotoilu, verkko-opinnot",
+  "provider": "Hämeen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Artenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_621101#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002081",
+  "title": "Bachelor of Engineering, Business Intelligence Technologies",
+  "provider": "Centria-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008113",
+  "title": "Bachelor of Engineering, Chemical Engineering",
+  "provider": "Centria-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651499#7"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002082",
+  "title": "Bachelor of Engineering, Environmental Chemistry and Technology",
+  "provider": "Centria-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651499#7"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000798",
+  "title": "Bachelor of Engineering, Sustainable Food Processing",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651409#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000230",
+  "title": "Bioanalyytikko (AMK)",
+  "provider": "Savonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Bioanalyytikko (AMK)"
+  ],
+  "codes": [
+   "koulutus_671104#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000205",
+  "title": "Ensihoitaja (AMK)",
+  "provider": "Yrkeshögskolan Arcada",
+  "tutkintonimikkeet": [
+   "Ensihoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671116#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008646",
+  "title": "Ensihoitaja (AMK), muuntokoulutus sairaanhoitajataustaisille",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [],
+  "codes": [
+   "koulutus_671116#12"
+  ],
+  "laajuus": null
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000211",
+  "title": "Estenomi (AMK)",
+  "provider": "Yrkeshögskolan Novia",
+  "tutkintonimikkeet": [
+   "Estenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681301#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000251",
+  "title": "Fysioterapeutti (AMK)",
+  "provider": "Jyväskylän ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Fysioterapeutti (AMK)"
+  ],
+  "codes": [
+   "koulutus_671112#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000250",
+  "title": "Geronomi (AMK)",
+  "provider": "Seinäjoen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Geronomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_671901#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000201",
+  "title": "Hammasteknikko (AMK)",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Hammasteknikko (AMK)"
+  ],
+  "codes": [
+   "koulutus_671108#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000185",
+  "title": "Hortonomi (AMK)",
+  "provider": "Hämeen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Hortonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_661201#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002233",
+  "title": "Insinööri (AMK) Akkutekniikan muuntokoulutus",
+  "provider": "Centria-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651201#12",
+   "koulutus_651202#12",
+   "koulutus_651499#7"
+  ],
+  "laajuus": 75
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000013002",
+  "title": "Insinööri (AMK) tai Tradenomi (AMK): Design Factory -tutkintokoulutukset",
+  "provider": "Hämeen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)",
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12",
+   "koulutus_651201#12",
+   "koulutus_651101#12",
+   "koulutus_651409#12",
+   "koulutus_631101#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000235",
+  "title": "Insinööri (AMK), ajoneuvotekniikka",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651104#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001086",
+  "title": "Insinööri (AMK), Automation and Robotics, Jyväskylän ammattikorkeakoulu",
+  "provider": "Jyväskylän ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651202#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010875",
+  "title": "Insinööri (AMK), bio- ja elintarviketekniikka",
+  "provider": "Hämeen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651409#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003273",
+  "title": "Insinööri (AMK), bio- ja elintarviketekniikka",
+  "provider": "Seinäjoen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651409#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011102",
+  "title": "Insinööri (AMK), bio- ja kemiantekniikka",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651903#8"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012008",
+  "title": "Insinööri (AMK), biomateriaalit ja elintarviketekniikka",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651409#12",
+   "koulutus_651401#12",
+   "koulutus_651402#12",
+   "koulutus_651408#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000238",
+  "title": "Insinööri (AMK), energia- ja ympäristötekniikka",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651903#8",
+   "koulutus_651102#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003228",
+  "title": "Insinööri (AMK), energiatekniikka",
+  "provider": "Kaakkois-Suomen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651102#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000502",
+  "title": "Insinööri (AMK), energiatekniikka, VAMK",
+  "provider": "Vaasan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651102#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003250",
+  "title": "Insinööri (AMK), kehittyvä elintarviketekniikka",
+  "provider": "Kaakkois-Suomen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651409#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000702",
+  "title": "Insinööri (AMK), kemiantekniikka, monimuotototeutus",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651401#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000239",
+  "title": "Insinööri (AMK), konetekniikka",
+  "provider": "Oulun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651101#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000713",
+  "title": "Insinööri (AMK), Laboratoriotekniikka",
+  "provider": "Tampereen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651403#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001212",
+  "title": "Insinööri (AMK), liikenneala",
+  "provider": "Hämeen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_682402#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000258",
+  "title": "Insinööri (AMK), logistiikka",
+  "provider": "Jyväskylän ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651602#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000210",
+  "title": "Insinööri (AMK), maanmittaustekniikka",
+  "provider": "Yrkeshögskolan Novia",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651502#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000219",
+  "title": "Insinööri (AMK), merenkulku",
+  "provider": "Yrkeshögskolan Novia",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651105#12"
+  ],
+  "laajuus": 270
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000208",
+  "title": "Insinööri (AMK), prosessi- ja materiaalitekniikka",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651401#12",
+   "koulutus_651402#12",
+   "koulutus_651408#12",
+   "koulutus_651409#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000188",
+  "title": "Insinööri (AMK), rakennustekniikka ja yhdyskuntatekniikka",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651501#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000240",
+  "title": "Insinööri (AMK), rakennustekniikka ja yhdyskuntatekniikka, talotekniikka",
+  "provider": "Karelia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651501#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002428",
+  "title": "Insinööri (AMK), robotiikka ja tekoäly",
+  "provider": "Kaakkois-Suomen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651101#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003243",
+  "title": "Insinööri (AMK), sähkö- ja automaatiotekniikka",
+  "provider": "Kaakkois-Suomen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651299#8"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000192",
+  "title": "Insinööri (AMK), sähkö- ja automaatiotekniikka",
+  "provider": "Seinäjoen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651201#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011081",
+  "title": "Insinööri (AMK), talo- ja automaatiotekniikka (LVISA)",
+  "provider": "Kaakkois-Suomen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651103#12",
+   "koulutus_651202#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002429",
+  "title": "Insinööri (AMK), talotekniikka",
+  "provider": "Oulun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651103#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000013111",
+  "title": "Insinööri (AMK), tekniikan monialaiset opinnot",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651101#12",
+   "koulutus_651402#12",
+   "koulutus_651408#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003320",
+  "title": "Insinööri (AMK), tieto- ja viestintätekniikka",
+  "provider": "Satakunnan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000193",
+  "title": "Insinööri (AMK), tieto- ja viestintätekniikka",
+  "provider": "Yrkeshögskolan Arcada",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001328",
+  "title": "Insinööri (AMK), tietotekniikka, VAMK",
+  "provider": "Vaasan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000204",
+  "title": "Insinööri (AMK), tuotantotalous",
+  "provider": "Satakunnan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651601#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003146",
+  "title": "Insinööri (AMK), ympäristötekniikka",
+  "provider": "Savonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651403#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003242",
+  "title": "Insinööri (AMK), ympäristöteknologia",
+  "provider": "Kaakkois-Suomen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651403#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000501",
+  "title": "Insinööri (AMK), ympäristöteknologia, VAMK",
+  "provider": "Vaasan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651403#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010326",
+  "title": "Insinööri (AMK), älykkäät ratkaisut",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651999#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000226",
+  "title": "Jalkaterapeutti (AMK)",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Jalkaterapeutti (AMK)"
+  ],
+  "codes": [
+   "koulutus_671113#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012847",
+  "title": "Joustava haku, Lapin AMK, Sairaanhoitaja, (AMK), Kemi ja Rovaniemi, opinnot alkaa keväällä 2027",
+  "provider": "Lapin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000217",
+  "title": "Konservaattori (AMK)",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Konservaattori (AMK)"
+  ],
+  "codes": [
+   "koulutus_621103#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000243",
+  "title": "Kulttuurituottaja (AMK)",
+  "provider": "Humanistinen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Kulttuurituottaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_621702#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000225",
+  "title": "Kuntoutuksen ohjaaja (AMK)",
+  "provider": "Jyväskylän ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Kuntoutuksen ohjaaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671118#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000229",
+  "title": "Kuvataiteilija (AMK)",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Kuvataiteilija (AMK)"
+  ],
+  "codes": [
+   "koulutus_621301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000207",
+  "title": "Kätilö (AMK)",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Kätilö (AMK)"
+  ],
+  "codes": [
+   "koulutus_671106#12"
+  ],
+  "laajuus": 270
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011217",
+  "title": "Laboratorioanalyytikko (AMK)",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Laboratorioanalyytikko (AMK)"
+  ],
+  "codes": [
+   "koulutus_652401#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000220",
+  "title": "Laboratorioanalyytikko (AMK)",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Laboratorioanalyytikko (AMK)"
+  ],
+  "codes": [
+   "koulutus_652401#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010530",
+  "title": "Lapin AMK, Terveydenhoitaja (AMK), muuntokoulutus, verkko-opinnot, syksyn 2026 yhteishaku",
+  "provider": "Lapin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Terveydenhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671103#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000252",
+  "title": "Liikunnanohjaaja (AMK)",
+  "provider": "Haaga-Helia ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Liikunnanohjaaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_681202#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008217",
+  "title": "Liikuntateknologian koulutuspolku urheilijoille ja valmentajille, insinööri (AMK) tai tradenomi (AMK) ja liikuntatieteiden maisteri (LitM)",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)",
+   "Tradenomi (AMK)",
+   "Liikuntatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_651101#12",
+   "koulutus_651501#12",
+   "koulutus_651301#12",
+   "koulutus_631107#12"
+  ],
+  "laajuus": 360
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008218",
+  "title": "Liikuntateknologian koulutuspolku urheilijoille ja valmentajille, liikunnanohjaaja (AMK) ja liikuntatieteiden maisteri (LitM)",
+  "provider": "Kajaanin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Liikunnanohjaaja (AMK)",
+   "Liikuntatieteiden maisteri"
+  ],
+  "codes": [
+   "koulutus_681202#12"
+  ],
+  "laajuus": 330
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000237",
+  "title": "Medianomi (AMK)",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Medianomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_621601#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000256",
+  "title": "Merikapteeni (AMK)",
+  "provider": "Yrkeshögskolan Novia",
+  "tutkintonimikkeet": [
+   "Merikapteeni (AMK)"
+  ],
+  "codes": [
+   "koulutus_681401#12"
+  ],
+  "laajuus": 270
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002137",
+  "title": "Metropolia Ammattikorkeakoulun avoimen ammattikorkeakoulun ensihoidon, kätilötyön, sairaanhoitotyön ja terveydenhoitotyön yhteiset polkuopinnot suorittaneet",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)",
+   "Ensihoitaja (AMK)",
+   "Terveydenhoitaja (AMK)",
+   "Kätilö (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12",
+   "koulutus_671103#12",
+   "koulutus_671116#12",
+   "koulutus_671106#12"
+  ],
+  "laajuus": null
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000186",
+  "title": "Metsätalousinsinööri (AMK)",
+  "provider": "Lapin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Metsätalousinsinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_661301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000228",
+  "title": "Muotoilija (AMK)",
+  "provider": "Kaakkois-Suomen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Muotoilija (AMK)"
+  ],
+  "codes": [
+   "koulutus_621102#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002422",
+  "title": "Muotoilija (AMK), palvelumuotoilu",
+  "provider": "Savonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Muotoilija (AMK)"
+  ],
+  "codes": [
+   "koulutus_621102#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000231",
+  "title": "Musiikkipedagogi (AMK)",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Musiikkipedagogi (AMK)"
+  ],
+  "codes": [
+   "koulutus_611101#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000214",
+  "title": "Muusikko (AMK)",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Muusikko (AMK)"
+  ],
+  "codes": [
+   "koulutus_621201#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000224",
+  "title": "Naprapaatti (AMK)",
+  "provider": "Kaakkois-Suomen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Naprapaatti (AMK)"
+  ],
+  "codes": [
+   "koulutus_671119#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000223",
+  "title": "Optometristi (AMK)",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Optometristi (AMK)"
+  ],
+  "codes": [
+   "koulutus_671111#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000222",
+  "title": "Osteopaatti (AMK)",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Osteopaatti (AMK)"
+  ],
+  "codes": [
+   "koulutus_671117#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000006906",
+  "title": "Pelastusalan päällystötutkinto (AMK)",
+  "provider": "Pelastusopisto",
+  "tutkintonimikkeet": [
+   "Pelastusalan päällystötutkinto (AMK)"
+  ],
+  "codes": [
+   "koulutus_681504#7"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000257",
+  "title": "Rakennusarkkitehti (AMK)",
+  "provider": "Oulun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Rakennusarkkitehti (AMK)"
+  ],
+  "codes": [
+   "koulutus_652501#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000189",
+  "title": "Rakennusmestari (AMK)",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Rakennusmestari (AMK)"
+  ],
+  "codes": [
+   "koulutus_652101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003177",
+  "title": "Restonomi (AMK), hyvinvointimatkailun kehittäminen",
+  "provider": "Savonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681102#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000246",
+  "title": "Restonomi (AMK), liikkeenjohto",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681103#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000248",
+  "title": "Restonomi (AMK), majoitus- ja ravitsemisala",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000253",
+  "title": "Restonomi (AMK), matkailu",
+  "provider": "Lapin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681102#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011711",
+  "title": "Restonomi (AMK), matkailu-, ravitsemis- ja tapahtumapalveluala",
+  "provider": "Kajaanin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000202",
+  "title": "Röntgenhoitaja (AMK)",
+  "provider": "Savonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Röntgenhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671105#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000249",
+  "title": "Sairaanhoitaja (AMK)",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000221",
+  "title": "Sairaanhoitaja (AMK), diakoninen hoitotyö",
+  "provider": "Diakonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008645",
+  "title": "Sairaanhoitaja (AMK), lähihoitajataustaisille suunnattu koulutus",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": null
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008804",
+  "title": "Sairaanhoitaja (AMK), Rovaniemi, syksyn 2026 yhteishaku",
+  "provider": "Lapin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000259",
+  "title": "Sosiaali- ja terveysalan AMK, rikosseuraamusala",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sosionomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_671202#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002497",
+  "title": "Sosionomi (AMK), diakoniatyö",
+  "provider": "Diakonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sosionomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_671201#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002501",
+  "title": "Sosionomi (AMK), kirkon nuorisotyö",
+  "provider": "Diakonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sosionomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_671201#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000005936",
+  "title": "Sosionomi (AMK), kirkon varhaiskasvatus",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Sosionomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_671201#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000254",
+  "title": "Sosionomi (AMK), sosiaaliala",
+  "provider": "Satakunnan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sosionomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_671201#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010019",
+  "title": "Sosionomi (AMK), yhteistyöopinnot suorittaneille",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [],
+  "codes": [
+   "koulutus_671201#12"
+  ],
+  "laajuus": null
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000233",
+  "title": "Suuhygienisti (AMK)",
+  "provider": "Savonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Suuhygienisti (AMK)"
+  ],
+  "codes": [
+   "koulutus_671107#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000196",
+  "title": "Tanssinopettaja (AMK)",
+  "provider": "Savonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tanssinopettaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_611201#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000197",
+  "title": "Teatteri-ilmaisun ohjaaja (AMK)",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Teatteri-ilmaisun ohjaaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_621501#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011216",
+  "title": "Tekniikan monialainen tutkinto-ohjelma",
+  "provider": "Tampereen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)",
+   "Rakennusmestari (AMK)"
+  ],
+  "codes": [
+   "koulutus_651999#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000247",
+  "title": "Terveydenhoitaja (AMK)",
+  "provider": "Oulun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Terveydenhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671103#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000203",
+  "title": "Toimintaterapeutti (AMK)",
+  "provider": "Jyväskylän ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Toimintaterapeutti (AMK)"
+  ],
+  "codes": [
+   "koulutus_671114#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002452",
+  "title": "Tradenomi (AMK), finanssipalvelut",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000200",
+  "title": "Tradenomi (AMK), kirjasto- ja informaatiopalvelut",
+  "provider": "Seinäjoen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631109#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000244",
+  "title": "Tradenomi (AMK), liiketalous",
+  "provider": "Jyväskylän ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002855",
+  "title": "Tradenomi (AMK), liiketalous, juridiikka ja finanssi, Jyväskylän ammattikorkeakoulu",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002445",
+  "title": "Tradenomi (AMK), liiketoiminnan logistiikka",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002446",
+  "title": "Tradenomi (AMK), matkailu ja wellness liiketoimintana",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002447",
+  "title": "Tradenomi (AMK), myyntityö",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000245",
+  "title": "Tradenomi (AMK), tietojenkäsittely",
+  "provider": "Turun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631107#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002969",
+  "title": "Tradenomi (AMK), Tiimiakatemia, Yrittäjyys ja vastuullisen liiketoiminnan johtaminen, Jyväskylän ammattikorkeakoulu",
+  "provider": "Jyväskylän ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002442",
+  "title": "Tradenomi (AMK), Tiimiyrittäjyys, Proakatemia",
+  "provider": "Tampereen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000242",
+  "title": "Tradenomi (AMK), turvallisuusala",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681901#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002423",
+  "title": "Tradenomi (AMK), Wellness-liiketoiminta",
+  "provider": "Savonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631199#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000198",
+  "title": "Tulkki (AMK)",
+  "provider": "Humanistinen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tulkki (AMK)"
+  ],
+  "codes": [
+   "koulutus_621704#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000216",
+  "title": "Tulkki (AMK), asioimistulkkaus",
+  "provider": "Diakonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tulkki (AMK)"
+  ],
+  "codes": [
+   "koulutus_621704#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002193",
+  "title": "Tulkki (AMK), viittomakielen ja puhevammaisten tulkkaus",
+  "provider": "Diakonia-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tulkki (AMK)"
+  ],
+  "codes": [
+   "koulutus_621704#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008557",
+  "title": "Täydentävät pedagogiset opinnot ulkomailla opettajankoulutuksen suorittaneille",
+  "provider": "Jyväskylän ammattikorkeakoulu",
+  "tutkintonimikkeet": [],
+  "codes": [
+   "koulutus_000001#12"
+  ],
+  "laajuus": 60
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002466",
+  "title": "Verkostoissa oppimisen ja osaamisen tutkinto-ohjelma",
+  "provider": "Tampereen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)",
+   "Medianomi (AMK)",
+   "Sosionomi (AMK)",
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12",
+   "koulutus_631107#12",
+   "koulutus_621601#12",
+   "koulutus_671201#12",
+   "koulutus_681101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000218",
+  "title": "Vestonomi (AMK)",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Vestonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_621104#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000199",
+  "title": "Yhteisöpedagogi (AMK)",
+  "provider": "Humanistinen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Yhteisöpedagogi (AMK)"
+  ],
+  "codes": [
+   "koulutus_621703#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000187",
+  "title": "Ympäristösuunnittelija (AMK)",
+  "provider": "Hämeen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Ympäristösuunnittelija (AMK)"
+  ],
+  "codes": [
+   "koulutus_661501#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000013114",
+  "title": "Älykäs liiketoiminta ja palvelut (Tradenomi AMK tai Restonomi AMK)",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)",
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12",
+   "koulutus_631107#12",
+   "koulutus_681901#12",
+   "koulutus_681103#12"
+  ],
+  "laajuus": null
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009789",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000542",
+  "title": "",
+  "provider": "Oulun ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000543",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631107#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011298",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631107#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010946",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000754",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681901#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002160",
+  "title": "",
+  "provider": "Satakunnan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010456",
+  "title": "",
+  "provider": "Lapin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002910",
+  "title": "",
+  "provider": "Tampereen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010866",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Rakennusmestari (AMK)"
+  ],
+  "codes": [
+   "koulutus_652101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011901",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Muotoilija (AMK)"
+  ],
+  "codes": [
+   "koulutus_621102#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001075",
+  "title": "",
+  "provider": "Yrkeshögskolan Novia",
+  "tutkintonimikkeet": [
+   "Kuvataiteilija (AMK)"
+  ],
+  "codes": [
+   "koulutus_621301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002833",
+  "title": "",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Kuvataiteilija (AMK)"
+  ],
+  "codes": [
+   "koulutus_621301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011039",
+  "title": "",
+  "provider": "Yrkeshögskolan Novia",
+  "tutkintonimikkeet": [
+   "Kuvataiteilija (AMK)"
+  ],
+  "codes": [
+   "koulutus_621301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011853",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Muotoilija (AMK)"
+  ],
+  "codes": [
+   "koulutus_621102#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002672",
+  "title": "",
+  "provider": "Yrkeshögskolan Novia",
+  "tutkintonimikkeet": [
+   "Muusikko (AMK)"
+  ],
+  "codes": [
+   "koulutus_621201#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002920",
+  "title": "",
+  "provider": "Hämeen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Artenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_621101#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012702",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Vestonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_621104#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000007823",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Muotoilija (AMK)"
+  ],
+  "codes": [
+   "koulutus_621102#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011635",
+  "title": "",
+  "provider": "Vaasan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651601#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000007517",
+  "title": "",
+  "provider": "Satakunnan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651303#1"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009785",
+  "title": "",
+  "provider": "Kaakkois-Suomen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651402#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012139",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651501#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002921",
+  "title": "",
+  "provider": "Hämeen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651501#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000007149",
+  "title": "",
+  "provider": "Kaakkois-Suomen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002835",
+  "title": "",
+  "provider": "Kaakkois-Suomen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001072",
+  "title": "",
+  "provider": "Yrkeshögskolan Novia",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651102#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002579",
+  "title": "",
+  "provider": "Vaasan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651102#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011629",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651601#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003005",
+  "title": "",
+  "provider": "Yrkeshögskolan Novia",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002087",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000998",
+  "title": "",
+  "provider": "Vaasan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)",
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002153",
+  "title": "",
+  "provider": "Satakunnan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651602#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010497",
+  "title": "",
+  "provider": "Lapin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002124",
+  "title": "",
+  "provider": "Yrkeshögskolan Arcada",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651408#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009539",
+  "title": "",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651101#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002155",
+  "title": "",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651201#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002326",
+  "title": "",
+  "provider": "Tampereen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651901#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012085",
+  "title": "",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651999#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000804",
+  "title": "",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651602#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010847",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651303#1"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012069",
+  "title": "",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651303#1"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008019",
+  "title": "",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651501#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009531",
+  "title": "",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651903#8",
+   "koulutus_651102#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000007958",
+  "title": "",
+  "provider": "Hämeen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_682402#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009786",
+  "title": "",
+  "provider": "Kaakkois-Suomen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651403#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011056",
+  "title": "",
+  "provider": "Kajaanin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003008",
+  "title": "",
+  "provider": "Yrkeshögskolan Novia",
+  "tutkintonimikkeet": [
+   "Bioanalyytikko (AMK)"
+  ],
+  "codes": [
+   "koulutus_671104#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000398",
+  "title": "",
+  "provider": "Satakunnan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010536",
+  "title": "",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000507",
+  "title": "",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002053",
+  "title": "",
+  "provider": "Lapin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009576",
+  "title": "",
+  "provider": "Yrkeshögskolan Arcada",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010328",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008688",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010949",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009382",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010953",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011055",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011021",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002262",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012053",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Fysioterapeutti (AMK)"
+  ],
+  "codes": [
+   "koulutus_671114#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010846",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12",
+   "koulutus_671116#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012977",
+  "title": "",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Fysioterapeutti (AMK)"
+  ],
+  "codes": [
+   "koulutus_671112#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002127",
+  "title": "",
+  "provider": "",
+  "tutkintonimikkeet": [
+   "Fysioterapeutti (AMK)"
+  ],
+  "codes": [
+   "koulutus_671112#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011052",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Fysioterapeutti (AMK)"
+  ],
+  "codes": [
+   "koulutus_671112#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009313",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Fysioterapeutti (AMK)"
+  ],
+  "codes": [
+   "koulutus_671112#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002263",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Fysioterapeutti (AMK)"
+  ],
+  "codes": [
+   "koulutus_671112#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010924",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12",
+   "koulutus_671103#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010920",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681103#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010306",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681103#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002129",
+  "title": "",
+  "provider": "Satakunnan ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681102#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012183",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681103#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001081",
+  "title": "",
+  "provider": "Lapin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681102#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001074",
+  "title": "",
+  "provider": "Yrkeshögskolan Novia",
+  "tutkintonimikkeet": [
+   "Ympäristösuunnittelija (AMK)"
+  ],
+  "codes": [
+   "koulutus_661501#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003166",
+  "title": "",
+  "provider": "Hämeen ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Metsätalousinsinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_661301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009356",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Bioanalyytikko (AMK)"
+  ],
+  "codes": [
+   "koulutus_671104#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000011300",
+  "title": "",
+  "provider": "Laurea-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Sosionomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_671201#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000000635",
+  "title": "",
+  "provider": "Haaga-Helia ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Liikunnanohjaaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_681202#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012829",
+  "title": "",
+  "provider": "Lapin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Liikunnanohjaaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_681202#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000001147",
+  "title": "",
+  "provider": "Kajaanin ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Liikunnanohjaaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_681202#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010836",
+  "title": "",
+  "provider": "Metropolia Ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Geronomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_671901#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000012970",
+  "title": "",
+  "provider": "LAB-ammattikorkeakoulu",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002278",
+  "title": "",
+  "provider": "Högskolan på Åland",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651301#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009773",
+  "title": "",
+  "provider": "Högskolan på Åland",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651102#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003215",
+  "title": "",
+  "provider": "Yrkeshögskolan Arcada",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651408#12"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000009772",
+  "title": "",
+  "provider": "Högskolan på Åland",
+  "tutkintonimikkeet": [
+   "Insinööri (AMK)"
+  ],
+  "codes": [
+   "koulutus_651105#12"
+  ],
+  "laajuus": 270
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002274",
+  "title": "",
+  "provider": "Högskolan på Åland",
+  "tutkintonimikkeet": [
+   "Restonomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_681101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000003274",
+  "title": "",
+  "provider": "Yrkeshögskolan Novia",
+  "tutkintonimikkeet": [
+   "Teatteripedagogi (AMK)"
+  ],
+  "codes": [
+   "koulutus_621502#1"
+  ],
+  "laajuus": 240
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000010195",
+  "title": "",
+  "provider": "Högskolan på Åland",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002270",
+  "title": "",
+  "provider": "Högskolan på Åland",
+  "tutkintonimikkeet": [
+   "Sairaanhoitaja (AMK)"
+  ],
+  "codes": [
+   "koulutus_671101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002320",
+  "title": "",
+  "provider": "Högskolan på Åland",
+  "tutkintonimikkeet": [
+   "Merikapteeni (AMK)"
+  ],
+  "codes": [
+   "koulutus_681401#12"
+  ],
+  "laajuus": 270
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000002279",
+  "title": "",
+  "provider": "Högskolan på Åland",
+  "tutkintonimikkeet": [
+   "Tietojärjestelmäsuunnittelija (AMK)"
+  ],
+  "codes": [
+   "koulutus_652901#1"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008362",
+  "title": "",
+  "provider": "Högskolan på Åland",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ },
+ {
+  "oid": "1.2.246.562.13.00000000000000008361",
+  "title": "",
+  "provider": "Högskolan på Åland",
+  "tutkintonimikkeet": [
+   "Tradenomi (AMK)"
+  ],
+  "codes": [
+   "koulutus_631101#12"
+  ],
+  "laajuus": 210
+ }
+]

@@ -1,0 +1,9 @@
+# Secrets — never commit (LiteLLM key etc.)
+.env
+
+# Local catalog snapshot for the data scripts (see README)
+scripts/catalog.json
+
+node_modules/
+npm-debug.log*
+.DS_Store
