@@ -5,7 +5,6 @@
   "version": "0.1.0",
   "description": "Näyttää työttömyysasteen ja mediaanitulon Opintopolun koulutus- ja toteutussivuilla. Perustuu Tilastokeskuksen sijoittumispalvelun aineistoon (valmistuneet 2023, tulot 2024).",
   "permissions": ["storage"],
-  "host_permissions": ["https://opintopolku.fi/*"],
   "content_scripts": [
     {
       "matches": ["https://opintopolku.fi/konfo/*"],

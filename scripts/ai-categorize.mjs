@@ -199,7 +199,14 @@ let mapped = 0;
 for (let i = 0; i < programs.length; i += BATCH) {
   const batch = programs.slice(i, i + BATCH);
   console.log(`mapping ${i + 1}-${i + batch.length} of ${programs.length}...`);
-  const list = await mapBatch(batch);
+  let list;
+  try {
+    list = await mapBatch(batch);
+  } catch (error) {
+    // Never lose completed batches: log, skip, keep mapping the rest.
+    console.log(`  batch ${i + 1}-${i + batch.length} failed (${error.message}) — skipped, rerun later`);
+    continue;
+  }
   const byOidInBatch = new Map(list.map((m) => [m.oid, m]));
   for (const p of batch) {
     const m = byOidInBatch.get(p.oid);

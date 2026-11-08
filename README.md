@@ -5,11 +5,12 @@ and median income from Statistics Finland's sijoittumispalvelu (graduates
 2023, income 2024) — directly on Opintopolku programme pages.
 
 - **Toteutus / koulutus pages** (`opintopolku.fi/konfo/*/toteutus/*`,
-  `.../koulutus/*`): floating box with the matched degree, school-specific
+  `.../koulutus/*`): inline section inserted before "Koulutuksen perustiedot"
+  with the matched degree, school-specific
   stats when the provider matches, otherwise national figures. Uncertain
   (fuzzy) matches are flagged; anything it can't confidently match shows a
   compact "no data" note instead of a number.
-- **Haku (search) pages**: a compact inline badge on every result card.
+- **Haku (search) pages**: one native fact row inside each result card (työttömyysaste · mediaanitulo); cards without a confident match stay untouched.
 - **Popup**: on/off toggle, dataset vintage, optional dashboard deep link.
 
 Matching runs 100% locally: AI-curated oid/title map (`data/ai-mappings.json`,
@@ -72,11 +73,11 @@ Notes:
 `match.js` is pure logic (no DOM), shared by the content script and the
 tests — `npm test` must stay green:
 
-1. AI-curated map by Opintopolku oid (page URL / card link), then by
+1. AI-curated map by Opintopolku oid (page URL), then by
    koulutus oid (toteutus pages link their koulutus), then title.
 2. Exact normalized degree name.
 3. Curated degree/school aliases.
-4. Fuzzy title scoring (Ak: 0.5 gate, `kandiohjelma` / `(3 v + 2 v)` titles
+4. Fuzzy title scoring (0.5 accept gate, `kandiohjelma` / `(3 v + 2 v)` titles
    forced to master's level).
 5. Full title + page context.
 
@@ -94,13 +95,18 @@ snapshots — the extension works offline from these.
   via LiteLLM (`LITELLM_API_KEY`, `LITELLM_BASE_URL`, `LITELLM_MODEL` in
   `.env`, see `.gitignore`). Merges per-oid; other filters are preserved.
 - `npm test`: matcher + AI-map regression cases against the real data.
+  Offline — run freely and often.
+- `npm run test:e2e`: live-DOM Playwright suite (`tests/`, `playwright.config.js`)
+  against real opintopolku.fi. Gated on purpose: needs `E2E_LIVE=1`, runs at
+  most once per 24h (`E2E_FORCE=1` overrides), serial with no retries. Never
+  add it to `npm test`; one proving run per change, then stop.
 
 ## Project structure
 
 ```text
 manifest.json        MV3 manifest (opintopolku.fi/konfo/* content scripts)
 match.js             pure matching logic (tested, no DOM)
-content.js           DOM extraction (SPA-aware router) + panel/badges UI
+content.js           DOM extraction (SPA-aware router) + inline panel UI
 popup.html/.js       toolbar popup (toggle + vintage)
 data/
   degrees.json       295 degrees with national + per-school stats
@@ -128,5 +134,5 @@ default; setting it only adds an outbound link.)
   reload fixes most staleness.
 - **Wrong degree**: open DevTools console — the script logs extracted
   signals as `[sijoittumisdata]`. Open an issue with the page URL.
-- The box never blocks page content: it's a floating overlay, dismissible
-  with × or the popup toggle.
+- The section lives inline in the page flow (never covers content) and can
+  be dismissed with × or the popup toggle.

@@ -115,7 +115,7 @@ const cases = [
     expectSchool: null,
   },
   {
-    name: "Live haku card: master's with provider in card text",
+    name: "Search-style signals: master's with provider in card text",
     signals: {
       title: "Tietojenkäsittelytiede, maisteri (2 v)",
       provider: "Itä-Suomen yliopisto",
@@ -133,6 +133,22 @@ const cases = [
     },
     expectDegree: "Tietotekniikka (dipl.ins.)",
     expectSchool: "Aalto-yliopisto",
+  },
+  {
+    name: "Parenthetical campus qualifier does not block title match",
+    signals: {
+      title: "Tietojenkäsittelytiede (Kokkolan yliopistokeskus Chydenius), maisteri (2 v)",
+      provider: "Jyväskylän yliopisto",
+    },
+    expectDegree: "Tietojenkäsittelytiede (fil. maist.)",
+  },
+  {
+    name: "Datatiede alias resolves to CS master's",
+    signals: {
+      title: "Datatieteen maisteriohjelma, filosofian maisteri (2 v)",
+      provider: "Helsingin yliopisto",
+    },
+    expectDegree: "Tietojenkäsittelytiede (fil. maist.)",
   },
 ];
 

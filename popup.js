@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     enabledInput.checked = true;
   }
   enabledInput.addEventListener("change", () => {
-    chrome.storage.local.set({ enabled: enabledInput.checked }).catch(() => {});
+    chrome.storage.local.set({ enabled: enabledInput.checked })?.catch?.(() => {});
   });
 
   if (DASHBOARD_URL) {

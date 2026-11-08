@@ -7,3 +7,7 @@ scripts/catalog.json
 node_modules/
 npm-debug.log*
 .DS_Store
+
+# Playwright output (live-DOM suite)
+test-results/
+playwright-report/

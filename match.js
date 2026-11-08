@@ -218,6 +218,7 @@ const DEGREE_ALIASES = new Map(
   Object.entries({
     "tietojenkäsittelytieteen maisteriohjelma": "Tietojenkäsittelytiede (fil. maist.)",
     "tietojenkäsittelytieteen maisteriopinnot": "Tietojenkäsittelytiede (fil. maist.)",
+    "datatieteen maisteriohjelma": "Tietojenkäsittelytiede (fil. maist.)",
     "tietotekniikan maisteriohjelma": "Tietotekniikka (dipl.ins.)",
     "tietotekniikan diplomi insinööri koulutus": "Tietotekniikka (dipl.ins.)",
     "kauppatieteiden maisteriohjelma": "Liiketaloustieteet (kauppat. maist.)",
@@ -453,7 +454,17 @@ function createMatcher(degrees, aiMaps) {
 
     // 3. Fuzzy on the title alone.
     const titleStems = tokens(title);
-    const titleBest = titleStems.length > 0 ? fuzzyBest(titleStems, sector, level) : null;
+    let titleBest = titleStems.length > 0 ? fuzzyBest(titleStems, sector, level) : null;
+    if (!titleBest || titleBest.score < ACCEPT_SCORE) {
+      // Retry with parenthetical qualifiers removed (campus names like
+      // "(Kokkolan yliopistokeskus Chydenius)", durations). Level/sector
+      // were already fixed from the full title above, so only scoring changes.
+      const stripped = title.replace(/\([^()]*\)/g, " ").replace(/\s+/g, " ").trim();
+      if (stripped && stripped !== title && tokens(stripped).length > 0) {
+        const retry = fuzzyBest(tokens(stripped), sector, level);
+        if (retry && (!titleBest || retry.score > titleBest.score)) titleBest = retry;
+      }
+    }
     if (titleBest && titleBest.score >= ACCEPT_SCORE) {
       return {
         degree: titleBest.degree,

@@ -5,7 +5,11 @@
   "type": "module",
   "scripts": {
     "test": "node scripts/test-match.mjs",
+    "test:e2e": "node scripts/e2e.mjs",
     "build:data": "node scripts/build-data.mjs",
     "categorize": "node scripts/ai-categorize.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.0"
   }
 }

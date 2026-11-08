@@ -2,8 +2,8 @@
  * Sijoittumisdata Opintopolussa — content script.
  *
  * Runs on opintopolku.fi/konfo/* pages:
- * - toteutus / koulutus pages → full floating panel with matched stats
- * - haku (search result) pages → compact inline badges per result card
+ * - toteutus / koulutus pages → inline section with matched stats
+ * - haku pages → one native fact row inside each result card
  *
  * Signal extraction is DOM-based with layered fallbacks, because Konfo's
  * markup is generated and selectors may change. If extraction fails, the
@@ -36,39 +36,39 @@ const STRINGS = {
     title: "Sijoittumisdata",
     unemployment: "Työttömyysaste",
     income: "Mediaanitulo",
-    residents: "Suomessa asuvia",
-    school: "Oppilaitos",
+    residents: "Valmistuneita",
     national: "Koko maa",
+    degree: "Tutkinto",
     approximate: "Todennäköinen vastaavuus — tarkista tutkinto.",
     noData: "Tälle tutkinnolle ei löytynyt sijoittumisdataa.",
     openComparison: "Avaa tutkintovertailu",
-    close: "Sulje",
+    source: "Lähde: Tilastokeskus",
     vintage: (g, i) => `Valmistuneet ${g}, tulot ${i}`,
   },
   sv: {
     title: "Sysselsättningsdata",
     unemployment: "Arbetslöshetsgrad",
     income: "Medianinkomst",
-    residents: "Bosatta i Finland",
-    school: "Läroanstalt",
+    residents: "Utexaminerade",
     national: "Hela landet",
+    degree: "Examen",
     approximate: "Trolig matchning — kontrollera examen.",
     noData: "Ingen sysselsättningsdata hittades för denna examen.",
     openComparison: "Öppna jämförelsen",
-    close: "Stäng",
+    source: "Källa: Statistikcentralen",
     vintage: (g, i) => `Utexaminerade ${g}, inkomster ${i}`,
   },
   en: {
     title: "Graduate outcomes",
     unemployment: "Unemployment rate",
     income: "Median income",
-    residents: "Residing in Finland",
-    school: "Institution",
+    residents: "Graduates",
     national: "Whole country",
+    degree: "Degree",
     approximate: "Probable match — please verify the degree.",
     noData: "No outcome data found for this programme.",
     openComparison: "Open comparison",
-    close: "Close",
+    source: "Source: Statistics Finland",
     vintage: (g, i) => `Graduates ${g}, income ${i}`,
   },
 };
@@ -152,50 +152,209 @@ function extractDetailPage(pageType) {
 }
 
 function extractResultCards() {
-  // Search-result cards (verified hook: .EntiteettiKortti-paperRoot).
-  // Card tail holds tutkintonimike, laajuus and the provider, in that order.
-  const anchors = document.querySelectorAll(
-    'main a[href*="/toteutus/"], main a[href*="/koulutus/"]',
-  );
+  // Search-result cards: the whole .EntiteettiKortti-paperRoot is wrapped in
+  // a single <a> to the koulutus/toteutus page (oid in its href).
   const cards = [];
   const seen = new Set();
-  anchors.forEach((anchor) => {
-    const href = anchor.getAttribute("href") || "";
+  document.querySelectorAll("main .EntiteettiKortti-paperRoot").forEach((root) => {
+    const anchor =
+      root.closest('a[href*="/toteutus/"], a[href*="/koulutus/"]') ||
+      root.querySelector('a[href*="/toteutus/"], a[href*="/koulutus/"]');
+    const href = (anchor && anchor.getAttribute && anchor.getAttribute("href")) || "";
     const oid = href.split("/").pop().split("?")[0];
     if (!oid || seen.has(oid)) return;
     seen.add(oid);
-    const card =
-      anchor.closest(".EntiteettiKortti-paperRoot") ||
-      anchor.closest("article, li") ||
-      anchor.parentElement ||
-      anchor;
-    const text = (card.textContent || "").replace(/\s+/g, " ").trim().slice(0, 1500);
-    const heading = card.querySelector("h2, h3");
-    const title = ((heading && heading.textContent) || anchor.textContent || "")
+    const heading = root.querySelector("h2, h3");
+    const title = ((heading && heading.textContent) || root.getAttribute("data-testid") || "")
       .replace(/\s+/g, " ")
       .trim();
-    const lines = [...card.querySelectorAll("p")]
+    // Own injected rows are excluded so re-runs match on Konfo text only.
+    const lines = [...root.querySelectorAll("p")]
+      .filter((p) => !p.closest("[data-sijoittumis]"))
       .map((p) => (p.textContent || "").replace(/\s+/g, " ").trim())
       .filter((line) => line.length > 0);
     const provider =
       [...lines]
         .reverse()
-        .find((line) => line.length < 80 && !/opintopist/i.test(line) && !/^\d/.test(line)) ||
-      "";
-    if (title) cards.push({ oid, title, provider, text, anchor });
+        .find(
+          (line) =>
+            line.length < 80 && !/opintopist/i.test(line) && !/^\d/.test(line) && !/[%€]/.test(line),
+        ) || "";
+    if (title) cards.push({ oid, title, provider, text: lines.join(" ").slice(0, 1500), root });
   });
   return cards;
 }
 
+function injectCardLine(item, result, t, meta) {
+  const root = item.root;
+  if (!root || !root.isConnected) return;
+  if (root.querySelector("[data-sijoittumis]")) return;
+  if (!result) return; // no guess on cards without a confident match
+  const value = result.school || result.degree;
+  const text = `${t.unemployment} ${fmtPct(value.u)} · ${t.income} ${fmtEur(value.m)}`;
+  const tooltip = `${result.degree.name} · ${t.vintage(meta.graduationYear, meta.incomeYear)} · ${t.source}`;
+  const box = root.querySelector(".EntiteettiKortti-iconTexts");
+  const template = box && box.querySelector(":scope > div > p");
+  let row;
+  if (box && template) {
+    // Clone the card's own fact-row markup so the line is native, not a box.
+    row = template.parentElement.cloneNode(false);
+    const p = template.cloneNode(false);
+    p.removeAttribute("id");
+    p.textContent = "";
+    const svg = iconSvg("stats");
+    svg.setAttribute("class", "MuiSvgIcon-root MuiSvgIcon-fontSizeMedium");
+    svg.style.cssText = "margin-right:8px;width:24px;height:24px;flex:none;";
+    p.append(svg, document.createTextNode(text));
+    p.setAttribute("title", tooltip);
+    row.append(p);
+  } else {
+    // Fallback plain line when the card layout is unknown.
+    row = buildEl("div", null);
+    row.style.cssText = "margin-top:4px;font-size:16px;color:#1d1d1d;";
+    row.textContent = text;
+    row.setAttribute("title", tooltip);
+  }
+  row.setAttribute("data-sijoittumis", "true");
+  (box || root).append(row);
+}
+
+
+
 // ---------------------------------------------------------------------------
-// Panel UI (Shadow DOM, isolated from Konfo styles)
+// Inline section UI (Shadow DOM, isolated from Konfo styles)
+//
+// The panel is inserted straight into Konfo's content column, right before
+// the "Koulutuksen perustiedot" section — no floating overlay. The anchor
+// search avoids hashed MUI class names so it survives Konfo rebuilds.
 // ---------------------------------------------------------------------------
 
+function findPerustiedotSection() {
+  const main = document.querySelector("main");
+  if (!main) return null;
+  for (const h of main.querySelectorAll("h2")) {
+    if (/^koulutuksen perustiedot/i.test((h.textContent || "").trim())) {
+      let section = h.parentElement;
+      while (
+        section &&
+        section.parentElement &&
+        section.parentElement !== main &&
+        section.parentElement.children.length < 3
+      ) {
+        section = section.parentElement;
+      }
+      if (section && section.parentElement) return section;
+    }
+  }
+  return null;
+}
+
+function findPaperStyle() {
+  // Blend in: copy the neighbouring Konfo paper's background + radius
+  // (papers are field-tinted on some pages, plain white on others).
+  const fallback = { background: "#ffffff", radius: "4px" };
+  try {
+    const paper = findPerustiedotSection()?.querySelector(".MuiPaper-root");
+    if (!paper) return fallback;
+    const cs = getComputedStyle(paper);
+    if (!cs.backgroundColor || cs.backgroundColor === "rgba(0, 0, 0, 0)") return fallback;
+    return { background: cs.backgroundColor, radius: cs.borderRadius || "4px" };
+  } catch {
+    return fallback;
+  }
+}
+
+function iconSvg(kind) {
+  // Minimal 24px icons echoing Konfo's MUI icons (inherit the text color).
+  // Built with DOM APIs only (no markup parsing).
+  const NS = "http://www.w3.org/2000/svg";
+  const svg = document.createElementNS(NS, "svg");
+  svg.setAttribute("viewBox", "0 0 24 24");
+  svg.setAttribute("class", "icon");
+  svg.setAttribute("aria-hidden", "true");
+  if (kind === "income") {
+    const circle = document.createElementNS(NS, "circle");
+    circle.setAttribute("cx", "12");
+    circle.setAttribute("cy", "12");
+    circle.setAttribute("r", "8.5");
+    circle.setAttribute("fill", "none");
+    circle.setAttribute("stroke", "currentColor");
+    circle.setAttribute("stroke-width", "2");
+    const label = document.createElementNS(NS, "text");
+    label.setAttribute("x", "12");
+    label.setAttribute("y", "16.5");
+    label.setAttribute("text-anchor", "middle");
+    label.setAttribute("font-size", "12");
+    label.setAttribute("font-weight", "700");
+    label.setAttribute("fill", "currentColor");
+    label.textContent = "€";
+    svg.append(circle, label);
+  } else {
+    const path = document.createElementNS(NS, "path");
+    path.setAttribute(
+      "d",
+      kind === "stats"
+        ? "M5 20V10h3v10H5zm5.5 0V4h3v16h-3zM16 20v-7h3v7h-3z"
+        : "M12 3 1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z",
+    );
+    svg.append(path);
+  }
+  return svg;
+}
+
+function statRow(icon, label, value, sub) {
+  const row = buildEl("div", "prow");
+  row.append(iconSvg(icon));
+  const texts = buildEl("div", null);
+  texts.append(buildEl("p", "plabel", label));
+  texts.append(buildEl("p", "pvalue", value));
+  if (sub) texts.append(buildEl("p", "psub", sub));
+  row.append(texts);
+  return row;
+}
+
+function findDetailSlot() {
+  const main = document.querySelector("main");
+  if (!main) return null;
+  const section = findPerustiedotSection();
+  if (section && section.parentElement) {
+    return { parent: section.parentElement, before: section };
+  }
+  // Fallback: right after the h1 block.
+  const h1 = main.querySelector("h1");
+  if (h1) {
+    let el = h1;
+    for (let i = 0; i < 3; i++) {
+      const parent = el.parentElement;
+      if (!parent || parent === main) break;
+      if (parent.children.length > 1) {
+        return { parent, before: el.nextElementSibling };
+      }
+      el = parent;
+    }
+    if (el.parentElement) return { parent: el.parentElement, before: el.nextElementSibling };
+  }
+  return null;
+}
+
 function ensureHost() {
+  const slot = findDetailSlot();
   let host = document.getElementById(PANEL_ID);
   if (!host) {
     host = document.createElement("div");
     host.id = PANEL_ID;
+  }
+  host.style.display = "block";
+  host.style.width = "100%";
+  host.style.boxSizing = "border-box";
+  host.style.margin = "24px 0 0";
+  host.style.gridColumn = "1 / -1";
+  host.style.flexBasis = "100%";
+  if (slot) {
+    if (host.parentElement !== slot.parent || host.nextElementSibling !== slot.before) {
+      slot.parent.insertBefore(host, slot.before);
+    }
+  } else if (!host.isConnected) {
     document.body.appendChild(host);
   }
   return host;
@@ -208,7 +367,7 @@ function buildEl(tag, className, text) {
   return node;
 }
 
-function renderPanel({ t, degree, school, meta, dashboardUrl }) {
+function renderPanel({ t, approximate, degree, school, meta, dashboardUrl }) {
   const host = ensureHost();
   host.replaceChildren();
   const shadow = host.shadowRoot || host.attachShadow({ mode: "open" });
@@ -216,10 +375,9 @@ function renderPanel({ t, degree, school, meta, dashboardUrl }) {
 
   const hasData = Boolean(degree);
   const national = degree
-    ? { u: degree.u, m: degree.m, r: degree.r }
+    ? { u: degree.u, m: degree.m, r: degree.r, g: degree.g }
     : null;
   const shown = school || national;
-  const scopeLabel = school ? `${t.school}: ${school.n}` : t.national;
 
   const comparisonHref =
     dashboardUrl && degree
@@ -228,111 +386,69 @@ function renderPanel({ t, degree, school, meta, dashboardUrl }) {
 
   const style = document.createElement("style");
   style.textContent = [
-    ":host { all: initial; }",
-    ".card {",
-    "  position: fixed; right: 16px; bottom: 16px; z-index: 2147483647;",
-    "  width: min(400px, calc(100vw - 32px));",
-    "  max-height: min(520px, calc(100vh - 32px));",
-    "  min-width: 280px; min-height: 160px;",
-    "  resize: both; overflow: auto;",
-    '  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;',
-    "  font-size: 13px; line-height: 1.45; color: #1a1a1a;",
-    "  background: #fff; border: 1px solid #e2e2e2; border-radius: 12px;",
-    "  box-shadow: 0 8px 30px rgba(0,0,0,.18);",
-    "  padding: 16px 18px;",
+    ":host { all: initial; display: block; }",
+    ".paper {",
+    '  font-family: "Open Sans", Arial, Roboto, sans-serif;',
+    "  color: #1d1d1d;",
+    "  background: #fff; border-radius: 4px;",
+    "  box-shadow: 0px 2px 1px -1px rgba(0,0,0,.2), 0px 1px 1px 0px rgba(0,0,0,.14), 0px 1px 3px 0px rgba(0,0,0,.12);",
+    "  padding: 8px 24px 16px;",
     "}",
-    ".card.empty {",
-    "  width: auto; max-width: min(340px, calc(100vw - 32px));",
-    "  min-width: 0; min-height: 0; resize: none;",
-    "  background: #f4f5f7; padding: 12px 14px;",
-    "}",
-    ".card.empty .note { margin-top: 4px; }",
-    ".card.empty .foot { margin-top: 6px; }",
-    ".head { display: flex; align-items: center; justify-content: space-between; gap: 8px; }",
-    ".head b { font-size: 13px; }",
-    ".head button {",
-    "  border: 0; background: transparent; cursor: pointer;",
-    "  font-size: 16px; line-height: 1; color: #666; padding: 2px 6px;",
-    "}",
-    ".degree { margin: 6px 0 2px; font-weight: 600; }",
-    ".scope { color: #666; font-size: 12px; }",
-    ".stats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 8px; }",
-    ".stat { background: #f5f6f8; border-radius: 8px; padding: 8px 10px; }",
-    ".stat span { display: block; font-size: 11px; color: #666; }",
-    ".stat b { font-size: 16px; font-variant-numeric: tabular-nums; }",
-    ".note { margin-top: 8px; font-size: 11px; color: #666; }",
+    ".prow { display: grid; grid-template-columns: 24px 1fr; gap: 16px; align-items: start; padding: 12px 0; }",
+    ".icon { width: 24px; height: 24px; color: #1d1d1d; margin-top: 2px; flex: none; }",
+    ".plabel { margin: 0; font-size: 16px; font-weight: 600; color: #1d1d1d; }",
+    ".pvalue { margin: 2px 0 0; font-size: 16px; color: #1d1d1d; font-variant-numeric: tabular-nums; }",
+    ".psub { margin: 2px 0 0; font-size: 14px; color: #626262; }",
+    ".note { margin: 12px 0 0; font-size: 14px; color: #626262; }",
     ".warn { color: #8a5a00; }",
-    ".foot { margin-top: 8px; display: flex; justify-content: space-between; align-items: center; gap: 8px; }",
-    ".foot a { color: #0b5fff; font-size: 12px; }",
-    ".foot span { font-size: 11px; color: #888; }",
+    ".foot { margin: 12px 0 0; padding-top: 4px; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 12px; font-size: 12px; color: #626262; }",
+    ".foot a { color: #3a7a10; text-decoration: none; }",
+    ".foot a:hover { text-decoration: underline; }",
+    "@media (max-width: 600px) {",
+    "  .paper { padding: 8px 16px 12px; }",
+    "  .prow { gap: 12px; }",
+    "}",
   ].join("\n");
   shadow.append(style);
 
-  const card = buildEl("div", hasData ? "card" : "card empty");
+  const card = buildEl("div", "paper");
   card.setAttribute("role", "complementary");
   card.setAttribute("aria-label", t.title);
 
-  const head = buildEl("div", "head");
-  head.append(buildEl("b", null, t.title));
-  const closeButton = buildEl("button", null, "\u00d7");
-  closeButton.setAttribute("type", "button");
-  closeButton.setAttribute("aria-label", t.close);
-  closeButton.addEventListener("click", () => host.remove());
-  head.append(closeButton);
-  card.append(head);
+  // Paper tint follows the neighbouring Konfo card (field-tinted on some pages).
+  const tint = findPaperStyle();
+  card.style.backgroundColor = tint.background;
+  card.style.borderRadius = tint.radius;
 
-  const vintageText = t.vintage(meta.graduationYear, meta.incomeYear);
   const foot = buildEl("div", "foot");
-
   if (hasData) {
-    card.append(buildEl("p", "degree", degree.name));
+    const scopeSub = school
+      ? `${school.n} · ${shown.g} ${t.residents.toLocaleLowerCase()}`
+      : `${t.national} · ${shown.g} ${t.residents.toLocaleLowerCase()}`;
     card.append(
-      buildEl("p", "scope", `${scopeLabel} \u00b7 ${shown.r} ${t.residents.toLocaleLowerCase()}`),
+      statRow("degree", t.degree, degree.name, scopeSub),
+      statRow("stats", t.unemployment, fmtPct(shown.u), null),
+      statRow("income", t.income, fmtEur(shown.m), null),
     );
-
-    const stats = buildEl("div", "stats");
-    const statU = buildEl("div", "stat");
-    statU.append(buildEl("span", null, t.unemployment), buildEl("b", null, fmtPct(shown.u)));
-    const statM = buildEl("div", "stat");
-    statM.append(buildEl("span", null, t.income), buildEl("b", null, fmtEur(shown.m)));
-    stats.append(statU, statM);
-    card.append(stats);
-
-    if (degree._fuzzy) card.append(buildEl("p", "note warn", t.approximate));
-
-    if (comparisonHref && /^https:\/\//.test(dashboardUrl)) {
-      const link = buildEl("a", null, t.openComparison);
-      link.setAttribute("href", comparisonHref);
-      link.setAttribute("target", "_blank");
-      link.setAttribute("rel", "noreferrer");
-      foot.append(link);
-    } else {
-      foot.append(buildEl("span"));
-    }
-    foot.append(buildEl("span", null, vintageText));
+    if (approximate) card.append(buildEl("p", "note warn", t.approximate));
   } else {
     card.append(buildEl("p", "note", t.noData));
-    foot.append(buildEl("span"), buildEl("span", null, vintageText));
+  }
+  foot.append(
+    buildEl("span", null, `${t.vintage(meta.graduationYear, meta.incomeYear)} · ${t.source}`),
+  );
+  if (comparisonHref && /^https:\/\//.test(dashboardUrl)) {
+    const link = buildEl("a", null, t.openComparison);
+    link.setAttribute("href", comparisonHref);
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noreferrer");
+    foot.append(link);
   }
   card.append(foot);
   shadow.append(card);
 }
 
-function injectBadge(card, result, t) {
-  if (card.querySelector("[data-sijoittumis-badge]")) return;
-  const badge = document.createElement("div");
-  badge.setAttribute("data-sijoittumis-badge", "true");
-  badge.textContent = result
-    ? `${t.title}: ${result.degree.name} — ${fmtPct(result.school ? result.school.u : result.degree.u)} / ${fmtEur(result.school ? result.school.m : result.degree.m)}`
-    : `${t.title}: ${t.noData}`;
-  badge.style.cssText =
-    "margin-top:6px;font-size:12px;color:#1a1a1a;background:#f0f4ff;" +
-    "border:1px solid #ccd8ff;border-radius:6px;padding:4px 8px;";
-  const anchor = card.anchor;
-  if (anchor.parentElement) {
-    anchor.parentElement.insertBefore(badge, anchor.nextSibling);
-  }
-}
+
 
 // ---------------------------------------------------------------------------
 // Main
@@ -371,12 +487,12 @@ async function init() {
     return;
   }
   const { match } = api.createMatcher(data.degrees, { byOid: aiByOid });
-  // SPA router: Konfo swaps toteutus/koulutus/haku content client-side
+  // SPA router: Konfo swaps toteutus/koulutus content client-side
   // without reloading the content script, so routing is re-evaluated on
   // every URL change and detail content is watched persistently. A render
   // that fires while Konfo still shows the previous (or skeleton) content
   // is corrected as soon as the new signals arrive.
-  let mode = null; // "detail" | "haku" | null
+  let mode = null; // "detail" | null
   let lastKey = "";
   let detailObserver = null;
   let hakuObserver = null;
@@ -391,12 +507,21 @@ async function init() {
     log("signals:", signals);
     if (isPlaceholderTitle(signals.title)) return false;
     const key = `${signals.title}||${signals.provider}||${signals.extra}`;
-    if (key === lastKey) return true;
+    if (key === lastKey && document.getElementById(PANEL_ID)?.isConnected) {
+      // Same content and node still anchored (Konfo re-renders often);
+      // re-anchor in case surrounding DOM moved, then skip.
+      ensureHost();
+      return true;
+    }
     lastKey = key;
     const result = match(signals);
-    if (result && result.method === "fuzzy") result.degree._fuzzy = true;
+    // Never mutate the shared dataset object (no `_fuzzy` flag on it):
+    // the same degree recurs across SPA navigations and a stale flag
+    // would warn on later exact matches. Pass match quality explicitly.
+    const approximate = result?.method === "fuzzy";
     renderPanel({
       t: currentT(),
+      approximate,
       degree: result ? result.degree : null,
       school: result ? result.school : null,
       meta: data.meta,
@@ -405,16 +530,18 @@ async function init() {
     return true;
   };
 
+
+
   const processHakuCards = () => {
     const t = currentT();
-    for (const card of extractResultCards()) {
+    for (const item of extractResultCards()) {
       const result = match({
-        title: card.title,
-        provider: card.provider,
-        extra: card.text,
-        oid: card.oid,
+        title: item.title,
+        provider: item.provider,
+        extra: item.text,
+        oid: item.oid,
       });
-      injectBadge(card, result, t);
+      injectCardLine(item, result, t, data.meta);
     }
   };
 
@@ -430,6 +557,8 @@ async function init() {
 
   const route = () => {
     const pageType = detectPageType(window.location.pathname);
+    // Detail pages get the inline section; haku pages get one native fact
+    // row per result card; anything else is left alone.
     const want =
       pageType === "toteutus" || pageType === "koulutus"
         ? "detail"
